@@ -1,0 +1,185 @@
+<section class="dashboard dashboard-index">
+
+    <div class="container-fluid">            
+            
+
+            
+        <div class="row">
+
+                
+
+
+            <div class="col-md-3 col-12 dash-menu">
+
+
+                {include="admin-menu1"}
+                    
+
+            </div><!--col-->
+
+
+
+
+            <div class="col-md-9 col-12 dash-panel">
+
+
+
+                
+
+                <form action="/557788admin/maquinas/{$machine.idmachine}/contas/adicionar" method="post">
+
+
+
+                    <div class="row">
+                        <div class="col-12">
+                            <h3>Adicionar Conta em [{$machine.desmachineabbr}] - {$machine.desmachine}</h3>
+                        </div>
+                    </div>
+
+
+       
+
+
+                    {if="$success != ''"}
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="alert alert-success alert-dismissible fade show" role="alert">
+                                    {$success}
+                                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                            </div> 
+                        </div>  
+                    {/if}
+
+                    {if="$error != ''"}
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                                    {$error}
+                                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                            </div> 
+                        </div>  
+                    {/if}
+
+
+                    
+
+                    <div class="row">
+                        
+                        <div class="col-md-6 dash-column">
+
+
+
+                            
+
+
+
+                            <div class="dash-input-row">
+
+                                <label for="desnamefrom">Remetente</label>
+                                <input type="text" class="form-control" id="desnamefrom" name="desnamefrom">
+
+                            </div><!--dash-input-row-->
+
+
+
+
+                            <div class="dash-input-row">
+
+                                <label for="desusername">Conta</label>
+                                <input type="text" class="form-control" id="desusername" name="desusername">
+
+                            </div><!--dash-input-row-->
+
+
+
+                            <div class="dash-input-row">
+
+                                <label for="desunpassword">Senha</label>
+                                <input type="text" class="form-control" id="desunpassword" name="desunpassword">
+
+                            </div><!--dash-input-row-->
+
+
+
+                            <div class="dash-input-row">
+
+                                <label for="deshost">Host</label>
+                                <input type="text" class="form-control" id="deshost" name="deshost">
+
+                            </div><!--dash-input-row-->
+
+
+
+                            <div class="dash-input-row">
+
+                                <label for="nrport">Porta</label>
+                                <input type="text" class="form-control" id="nrport" name="nrport">
+
+                            </div><!--dash-input-row-->
+
+
+
+                        
+
+                        </div><!--col-md-6-->
+
+
+
+
+
+                        <div class="col-md-6">
+                            
+                            
+                            
+                            &nbsp;
+
+                            
+                            
+                        </div><!--col-md-6-->
+
+
+                    </div><!--row-->
+
+
+
+
+
+                    <div class="row">
+
+                        <div class="col-md-12">
+
+                            <div class="dash-input-row input-footer">
+                                
+                                <button type="submit" class="btn btn-primary">Salvar</button>
+
+                                <a href="/557788admin/maquinas/{$machine.idmachine}/contas" class="btn btn-danger">Voltar</a>
+
+                            </div><!--dash-input-row-->
+                            
+                        </div><!--col-->
+
+                    </div><!--row-->
+
+
+
+                </form>
+
+
+
+            </div><!--col-->
+        
+
+
+      
+        </div><!--row-->
+    
+    </div><!--container-->
+
+</section>
+

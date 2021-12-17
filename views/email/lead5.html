@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="E-mail de notificação de Músico de Valor">
+  <link href="https://fonts.googleapis.com/css2?family=Patua+One&family=Poppins:wght@500&display=swap" rel="stylesheet">
+  
+  <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+  <title>Bem Casei</title>
+
+  <style type="text/css">
+    body{
+      font-size: 1rem;
+      color: #333;
+    }
+    #email-canvas{
+      padding: 2% 1% 5% 1%;
+      font-family: 'Poppins', sans-serif!important;
+    }
+    #email-canvas hr{
+      border: 1px solid #ccc;
+      text-align: left!important;
+      width: 50%;
+      margin-left: 0;
+      margin-top: 1%;
+    }
+    .title{
+      color: #04101b;
+      margin-bottom: 10%;
+    }
+    .title h1{
+      font-size: 2rem;
+      font-family: 'Patua One', Arial!important;
+    }
+    .email-row{
+      margin-bottom: 2%;
+    }
+    .email-row2{
+      margin-bottom: 6%;
+    }
+
+    .info{
+      width: 60%;
+    }
+    .detail .email-label1{
+      font-style: italic;
+      font-size: 0.85rem;
+    }
+    .detail .email-label2{
+      letter-spacing: 0.1rem;
+    }
+    .spacing{
+      margin-bottom: 50px;
+    }
+    .spacing2{
+      margin-bottom: 90px;
+    }
+    .email-button{
+      margin-bottom: 8%;
+    }
+    .email-button a{
+      background-color: #04101b;
+      color: #fff;
+      padding: 12px 24px;
+      border-radius: 8px;
+      text-decoration: none;
+    }
+    .email-footer{
+      width: 50%;
+      border-top: 1px solid #ccc;
+      padding: 1% 0;
+    }
+    .email-footer a{
+      color: #04101b;
+    }
+    .boleto a{
+      text-decoration: none!important;
+      color: #333!important;
+    }
+    .boleto a:hover{
+      text-decoration: underline!important;
+      color: #333!important;
+    }
+    @media only screen and (max-width: 797px){
+
+      body{
+        font-size: 0.8rem;
+      }
+      #email-canvas{
+        text-align: center;
+        padding: 3% 7% 5% 7%;
+      }
+      #email-canvas hr{
+        margin-left: auto;
+      }
+      .title{
+        margin-bottom: 20%;
+      }
+      .title h1{
+        font-size: 1.4rem;
+      }
+      .info{
+        width: auto;
+      }
+      .email-button{
+        margin-top: 10%; 
+      }
+      .email-footer{
+        width: auto;
+        margin-top: 20%;
+      }
+      .email-row{
+        margin-bottom: 8%;
+      }
+      .email-row2{
+        margin-bottom: 10%;
+      }
+      .spacing{
+        margin-bottom: 80px;
+      }
+      .spacing2{
+        margin-bottom: 120px;
+      }
+
+    }/*breakpoint*/
+
+  </style>
+
+</head>
+
+<body>
+
+
+
+
+
+
+  <section id="email-canvas">
+    
+
+
+
+
+
+
+      <div class="title">
+            
+        <h1>Parabéns! Você está a um passo de começar a DOMINAR o PDO!</h1>
+
+      </div>
+
+
+
+
+
+      <div class="email-row2">
+            
+        <span>Clique no botão abaixo, insira email e senha e comece a assistir as aulas!</span>
+
+      </div>
+
+
+
+
+
+      {if="$despassword === ''"}
+
+        <div class="email-row">
+        
+          
+          <span>Use a mesma senha <i>(Caso não se lembre, clique no botão e peça pra recuperar senha)</i></span>
+
+        </div>
+
+
+      {else}
+
+        <div class="email-row">
+        
+          
+          <span>A senha para o e-mail <strong>{$user.deslogin}</strong> é: {$despassword}</span>
+
+        </div>
+
+      {/if}
+
+
+
+      
+
+
+      
+  
+
+
+      <div class="email-row email-button">
+        
+        <a target="_blank" href="https://programaremphp.com.br/login/{$deslogin}">
+          <span>Fazer Login no Painel</span>
+        </a>
+
+        
+      </div><!--email-row-->
+
+
+      <div class="email-row">
+        
+        <div class="email-footer">
+          
+          <span>
+            Precisa de ajuda? <a target="_blank" href="https://wa.me/5531984050125?text=Olá,%20fiz%20o%20cadastro%20pro%20curso%20PDO%20Starter%20e%20quero%20tirar%20dúvidas!"><strong>Fale conosco</a>
+          </span>
+
+        </div>
+
+
+      </div><!--email-row-->
+
+
+    
+
+
+
+
+  </section>
+
+
+  </body>
+</html>

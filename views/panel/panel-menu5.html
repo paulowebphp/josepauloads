@@ -1,0 +1,115 @@
+<div class="list-group">
+
+
+
+
+
+    <div class="menu-main-pages">
+        
+        <a href="/painel" class="list-group-item list-group-item-action">Início</a>
+
+
+    </div>
+
+
+    
+
+
+
+
+
+
+
+    <div class="menu-main-pages">
+
+
+        <div class="accordion" id="accordion">
+
+
+
+
+        
+            {loop="$course"}
+
+
+                <div class="card">
+        
+                    <div data-toggle="collapse" data-target="#collapse{$counter}" class="card-header btn" id="heading{$counter}">
+        
+                            <button>{$value.name}</button>  
+        
+                    </div><!--card-hader-->
+                    
+                    <div id="collapse{$counter}" class="collapse{if="$counter == $module"} show{/if}" aria-labelledby="heading{$counter}" data-parent="#accordion">
+        
+                        <div class="card-body card-body-text">
+        
+                            <p>
+                                
+                                {$handler = $counter}
+                                {loop="$value.class"}
+                                    
+                                    <a href='/painel/pdo-starter/{$handler}/{function="setHash($counter)"}' class="list-group-item list-group-item-action{if="getActive($_SERVER['REQUEST_URI'], getLeadUri('lead5'), $handler, $counter)"} active1{/if}">{$value.desvideo}</a>
+                                {/loop}
+        
+                            </p>
+        
+                        </div><!--card-body-->
+        
+                    </div><!--collapseTwo-->
+        
+                </div><!--card-->
+    
+            {/loop}
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+            
+    
+    
+    
+       
+    
+    
+    
+        </div><!--accordion-->
+
+    </div><!--menu-main-pages-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="menu-main-pages">
+
+
+        <a href="/painel/mudar-senha" class="list-group-item list-group-item-action">Alterar Senha</a>  
+        
+        <a href="/logout" class="list-group-item list-group-item-action">Sair</a>
+
+    </div><!--menu-main-pages-->
+
+
+
+
+</div><!--list-group-->

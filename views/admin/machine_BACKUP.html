@@ -1,0 +1,145 @@
+<section class="dashboard dashboard-index">
+
+    <div class="container-fluid">            
+            
+
+            
+        <div class="row">
+
+                
+
+
+            <div class="col-md-3 col-12 dash-menu">
+
+
+                {include="admin-menu1"}
+                    
+
+            </div><!--col-->
+
+
+
+
+            <div class="col-md-9 col-12 dash-panel">
+
+
+                
+
+                
+                {if="$success != ''"}
+                <div class="row">
+                    <div class="col-12">
+                        <div class="alert alert-success alert-dismissible fade show" role="alert">
+                            {$success}
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                    </div> 
+                </div>  
+                {/if}
+
+                {if="$error != ''"}
+                <div class="row">
+                    <div class="col-12">
+                        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                            {$error}
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                    </div> 
+                </div>  
+                {/if}
+
+
+
+
+                <div class="row">
+
+                    <div class="col-md-6 col-12">
+
+                        <h3>Teste Template</h3>
+                        <br><br>
+
+
+
+                        <form action="/557788admin/tplname" method="post">
+
+
+                            <input type="text" placeholder="Template" name="tplname">
+                        
+                            <button onclick="return confirm('Deseja realmente enviar?')" class="button1" type="submit">Enviar</button>
+                        
+                        </form>
+                        
+                    </div>
+
+
+                    <div class="col-md-6 col-12">
+                        &nbsp;
+                    </div>
+
+
+                </div>
+                    
+
+
+                
+
+
+                <div class="row">
+
+                    <div class="col-md-6 col-12">
+
+                        <h3>Máquina</h3>
+                        <br><br>
+
+
+
+                        <form action="/557788admin/maquina" method="post">
+
+                            <textarea name="lead" id="lead" cols="30" rows="10"></textarea>
+                            <input type="text" placeholder="Remetente" name="name_from">
+
+                            <input type="text" placeholder="Assunto" name="subject">
+
+                            <input type="text" placeholder="Template" name="tplname">
+                            <input type="text" placeholder="Lead" name="deslead">
+                        
+                            <button onclick="return confirm('Deseja realmente enviar?')" class="button1" type="submit">Enviar</button>
+                        
+                        </form>
+
+                    </div>
+
+
+                    <div class="col-md-6 col-12">
+                        &nbsp;
+                    </div>
+
+
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+            </div><!--col-->
+        
+
+
+      
+        </div><!--row-->
+    
+    </div><!--container-->
+
+</section>
+

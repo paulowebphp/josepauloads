@@ -1,0 +1,201 @@
+<section class="dashboard dashboard-index">
+
+    <div class="container-fluid">            
+            
+
+            
+        <div class="row">
+
+                
+
+
+            <div class="col-md-3 col-12 dash-menu">
+
+
+                {include="admin-menu1"}
+                    
+
+            </div><!--col-->
+
+
+
+
+            <div class="col-md-9 col-12 dash-panel">
+
+
+
+                
+
+                <form action="/557788admin/campanhas/{$campaign.idcampaign}/sequencias/adicionar" method="post">
+
+
+
+                  
+
+                    <div class="row">
+                        <div class="col-12">
+                            <h4>Adicionar Sequência</h4>
+                        </div>
+                    </div>
+
+
+
+                    {if="$success != ''"}
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="alert alert-success alert-dismissible fade show" role="alert">
+                                    {$success}
+                                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                            </div> 
+                        </div>  
+                    {/if}
+
+                    {if="$error != ''"}
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                                    {$error}
+                                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                            </div> 
+                        </div>  
+                    {/if}
+
+
+                    
+
+                    <div class="row">
+                        
+                        <div class="col-md-6 dash-column">
+
+
+
+                            <div class="dash-input-row">
+
+                                <h5>Campanha: #{$campaign.idcampaign}</h5>
+                                <h5>Usuário: {$campaign.desperson}</h5>
+                                <h5>Apelido: {$campaign.desnick}</h5>
+                                <h5>Máquina: [{$campaign.desmachineabbr}] - {$campaign.desmachine} </h5>
+
+                            </div><!--dash-input-row-->
+
+                            {if="$nrtotal != 0"}
+                            <div class="dash-input-row">
+
+                                <label for="idusername">Conta</label>
+
+                                <select id="idusername" name="idusername" class="custom-select">
+
+                                    {loop="$username"}
+                                    <option value="{$value.idusername}">{$value.desnamefrom} - {$value.desusername}</option>
+                                    {/loop}
+                                
+                                </select>
+
+                            </div>
+
+                            <div class="dash-input-row">
+
+                                <label for="dessubject">Assunto</label>
+                                <input type="text" class="form-control" id="dessubject" name="dessubject">
+
+                            </div><!--dash-input-row-->
+
+
+
+                            <!--
+                            <div class="dash-input-row">
+
+                                <label for="destemplate">Template</label>
+                                <input type="text" class="form-control" id="destemplate" name="destemplate">
+
+                            </div>dash-input-row-->
+
+                            <div class="dash-input-row">
+
+                                <label for="destemplate">desTemplate</label>
+
+                                <select id="destemplate" name="destemplate" class="custom-select">
+
+                                    {loop="$template"}
+                                    <option value="{$value}">{$value}</option>
+                                    {/loop}
+                                
+                                </select>
+
+                            </div>
+                            {else}
+                            <div class="dash-input-row">
+
+
+                                <a href='/557788admin/maquinas/{$campaign.idmachine}/contas'>
+                                        Crie uma Conta pra esta Máquina
+                  
+                                  </a>
+
+                            </div><!--dash-input-row-->
+                            {/if}
+
+
+
+                        </div><!--col-md-6-->
+
+
+
+
+
+                        <div class="col-md-6">
+                            
+                            
+                            
+                            &nbsp;
+
+                            
+                            
+                        </div><!--col-md-6-->
+
+
+                    </div><!--row-->
+
+
+
+
+
+                    <div class="row">
+
+                        <div class="col-md-12">
+
+                            <div class="dash-input-row input-footer">
+                                
+                                <button type="submit" class="btn btn-primary">Salvar</button>
+
+                                <a href="/557788admin/campanhas/{$campaign.idcampaign}/sequencias" class="btn btn-danger">Voltar</a>
+
+                            </div><!--dash-input-row-->
+                            
+                        </div><!--col-->
+
+                    </div><!--row-->
+
+
+
+                </form>
+
+
+
+            </div><!--col-->
+        
+
+
+      
+        </div><!--row-->
+    
+    </div><!--container-->
+
+</section>
+

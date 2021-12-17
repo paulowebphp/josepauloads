@@ -1,0 +1,267 @@
+<section class="dashboard dashboard-index">
+
+    <div class="container-fluid">            
+            
+
+            
+        <div class="row">
+
+                
+
+
+            <div class="col-md-3 col-12 dash-menu">
+
+
+                {include="admin-menu1"}
+                    
+
+            </div><!--col-->
+
+
+
+
+            <div class="col-md-9 col-12 dash-panel">
+
+
+                
+
+                
+                {if="$success != ''"}
+                <div class="row">
+                    <div class="col-12">
+                        <div class="alert alert-success alert-dismissible fade show" role="alert">
+                            {$success}
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                    </div> 
+                </div>  
+                {/if}
+
+                {if="$error != ''"}
+                <div class="row">
+                    <div class="col-12">
+                        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                            {$error}
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                    </div> 
+                </div>  
+                {/if}
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="row">
+
+                  <div class="col-7">
+
+                    <h3>Contas de [{$machine.desmachineabbr}] - {$machine.desmachine}</h3>
+
+
+                 </div>
+
+
+                 <div class="col-5">
+
+                  <a href='/557788admin/maquinas'>
+                    <button class="btn btn-light">
+                      Voltar
+                    </button>
+  
+                  </a> 
+
+                  <a href='/557788admin/maquinas/{$machine.idmachine}/contas/adicionar'>
+                    <button class="btn btn-primary">
+                      Adicionar
+                    </button>
+  
+                  </a>
+
+                  <a href='/557788admin/maquinas/{$machine.idmachine}/contas/removidas'>
+                    <button class="btn btn-link">
+                      Removidas
+                    </button>
+  
+                  </a>  
+
+
+                </div>
+
+
+              
+
+
+              </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+
+                <div class="row">
+                    
+                    <div class="col-md-12 col-12">
+
+
+                      {if="$nrtotal == 0"}
+        
+                      <div class="row">
+                          <div class="col-12">
+                              <div class="alert alert-info alert-domain" role="alert">
+                                  <h1>Ainda não há Contas nesta Máquina</h1>
+                              </div><!--alert-->
+                          </div><!--col-->
+                      </div><!--row-->
+  
+                              
+                      {else}
+
+
+                      <div class="table-responsive">
+                        <table class="table table-striped table-sm">
+                
+                
+                
+                          <thead>
+                            <tr>
+                              <th>Remetente</th>
+                              <th>Conta</th>
+                              <th>Senha</th>
+                              <th>Host</th>
+                              <th>Porta</th>
+                              <th>&nbsp;</th>
+                            </tr>
+                          </thead>
+                
+                
+                          
+                          
+                          
+                          
+                          
+                
+                
+                
+                          <tbody>
+                
+                
+                
+                            {loop="$username"}
+                            <tr>
+                              <td>{$value.desnamefrom}</td>
+                              <td>{$value.desusername}</td>
+                              <td>{$value.desunpassword}</td>
+                              <td>{$value.deshost}</td>
+                              <td>{$value.nrport}</td>
+                
+                
+                         
+                
+                
+                              <td>
+                                <a href='/557788admin/maquinas/{$machine.idmachine}/contas/{$value.idusername}'>
+                                  <button class="btn btn-link">
+                                    Editar
+                                  </button>
+                
+                                </a>           
+                                
+                       
+                
+                       
+                                <a onclick="return confirm('Deseja realmente excluir este item?')" href='/557788admin/maquinas/{$machine.idmachine}/contas/deletar/{$value.idusername}'>
+                                  <button class="btn btn-danger">
+                                    Deletar
+                                  </button>
+                
+                                </a>
+                              </td>
+                              
+                             
+                              
+                              
+                              
+                
+                             
+                
+                            </tr>
+                
+                            {/loop}
+                
+                
+                
+                
+                
+                
+                
+                
+                          </tbody>
+                
+                
+                
+                
+                        </table>
+                      </div>
+
+
+                      {/if}
+
+
+
+
+                        
+                        
+
+
+                    </div><!--col-lg-3-->
+
+
+
+
+                  
+
+
+                </div><!--row-->
+
+
+
+                
+
+
+
+
+
+
+            </div><!--col-->
+        
+
+
+      
+        </div><!--row-->
+    
+    </div><!--container-->
+
+</section>
+

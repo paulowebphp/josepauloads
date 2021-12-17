@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{function="getSitePageConfig('metadescription')"}">
+    <meta name="robots" content="noindex">
+
+
+    <title>{function="getSitePageConfig('pagetitle')"}</title>
+    <link rel="icon" type="image/png" href="/res/images/favicon/dashboard/favicon.ico"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" type="text/css" href="/res/css/font-awesome.min.css"> -->
+    
+    <link rel="stylesheet" type="text/css" href="/res/css/dashboard/stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="/res/css/dashboard/stylesheet-mobile.css">
+
+    
+
+    
+
+    
+
+</head>
+
+
+
+<body>
+    
+
+    <header>
+
+        <div id="header-device" class="container-fluid">
+            
+
+            <div class="row">
+                
+
+                <div class="col-md-3">
+                    
+
+
+                    <div id="logo">
+
+                        <a href="/painel">
+                            <img id="logotipo" src="/res/images/logo/logo-main.png" alt="Logotipo">
+                        
+                        </a>
+
+                    </div>
+         
+
+                </div><!--col-md-->
+
+
+
+
+
+
+                <div class="col-md-9">
+                                       
+                        
+                    <div id="menu-header">
+                        <ul>
+
+
+
+                                <li><a href="/painel"><i class="fa fa-user"></i> {function="getDeslogin()"}</a></li>
+
+                                <li><a href="/logout"><i class="fa fa-sign-out"></i> Sair</a></li>
+
+                            
+                        </ul>
+                    </div>
+
+
+
+                </div><!--col-md-->
+
+
+            </div><!--row-->
+
+
+        </div>
+
+
+
+    <div id="header-mobile" class="container-fluid">
+
+        <div class="row">
+
+
+
+            <div class="col-md-12">
+                
+
+
+
+                <div id="menu-condensed">
+                        
+                    <button id="btn-bars" type="button"><i class="fa fa-bars"></i></button>
+                    
+                </div>
+
+
+
+
+                
+
+                <div id="menu-mobile">
+                    
+                    <ul>
+
+                            <li><a href="/painel"><i class="fa fa-user"></i> {function="getDeslogin()"}</a></li>
+
+
+
+
+
+
+
+                            <div class="list-group">
+
+
+
+
+
+                                <div class="menu-main-pages">
+                                    
+                                    <a href="/painel" class="list-group-item list-group-item-action">Início</a>
+                            
+                            
+                                </div>
+                            
+                            
+                                
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                <div class="menu-main-pages">
+                            
+                            
+                                    <div class="accordion" id="accordion0">
+                            
+                            
+                            
+                            
+                                    
+                                        {loop="$course"}
+                            
+                            
+                                            <div class="card">
+                                    
+                                                <div data-toggle="collapse" data-target="#collapse{$counter}" class="card-header btn" id="heading{$counter}">
+                                    
+                                                        <button>{$value.name}</button>  
+                                    
+                                                </div><!--card-hader-->
+                                                
+                                                <div id="collapse{$counter}" class="collapse{if="$counter == $module"} show{/if}" aria-labelledby="heading{$counter}" data-parent="#accordion">
+                                    
+                                                    <div class="card-body card-body-text">
+                                    
+                                                        <p>
+                                                            
+                                                            {$handler = $counter}
+                                                            {loop="$value.class"}
+                                                                
+                                                                <a href='/painel/pdo-starter/{$handler}/{function="setHash($counter)"}' class="list-group-item list-group-item-action{if="getActive($_SERVER['REQUEST_URI'], getLeadUri('lead5'), $handler, $counter)"} active1{/if}">{$value.desvideo}</a>
+                                                            {/loop}
+                                    
+                                                        </p>
+                                    
+                                                    </div><!--card-body-->
+                                    
+                                                </div><!--collapseTwo-->
+                                    
+                                            </div><!--card-->
+                                
+                                        {/loop}
+                                
+                                
+                                
+                                
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                        
+                                
+                                
+                                
+                                   
+                                
+                                
+                                
+                                    </div><!--accordion-->
+                            
+                                </div><!--menu-main-pages-->
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                <div class="menu-main-pages">
+                            
+                            
+                                    <a href="/painel/mudar-senha" class="list-group-item list-group-item-action">Alterar Senha</a>  
+                                    
+                                    <a href="/logout" class="list-group-item list-group-item-action">Sair</a>
+                            
+                                </div><!--menu-main-pages-->
+                            
+                            
+                            
+                            
+                            </div><!--list-group-->
+
+
+                        
+
+
+
+
+
+
+
+
+                    </ul>
+
+                    <div class="bar-close text-center">
+                        <button type="button" class="btn btn-close"><i class="fa fa-close"></i></button>
+                    </div>
+
+                </div>
+
+
+                <div id="menu-mobile-mask"></div>
+
+
+
+            </div><!--row-->
+
+
+
+        </div><!--container-->
+
+    </div><!--header-mobile-->
+        
+             
+</header>

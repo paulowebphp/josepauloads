@@ -1,0 +1,64 @@
+
+
+<section id="section6" class="site">
+
+    <div class="container">
+
+        <div class="row centralizer bottom2">
+            <div class="col-md-10 col-12 centralizer">
+                <div class="logo centralizer">
+                    <img src="/res/images/logo/logo-main.png" class="img-responsive">
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="row centralizer bottom1">
+
+
+
+            
+     
+
+            <div class="col-md-6 col-12 text-center">
+
+                <form id="login-form" action="/recuperar-senha/redefinir" method="post">
+
+
+                    {if="$error != ''"}
+                    <div class="alert alert-danger">
+                        {$error}
+                    </div>
+                    {/if}
+
+
+
+                    <label for="new_pass" class="sr-only">Insira a Nova Senha</label>
+                    <input type="password" name="new_pass" id="new_pass" class="form-control" placeholder="Nova Senha" required autofocus>
+
+
+                    <label for="new_pass_confirm" class="sr-only">Confirme a Nova Senha</label>
+                    <input type="password" name="new_pass_confirm" id="new_pass_confirm" class="form-control" placeholder="Confirme a Nova Senha" required autofocus>
+                    
+                    <input type="hidden" name="codigo" id="codigo" value="{$code}">
+
+                    
+
+                    <button type="submit" class="button1">Enviar</button>
+                    <br>
+                    <a href="/login">Voltar para o Login</a>
+            
+                </form>
+
+            </div>
+            
+        </div>
+
+
+
+    </div>
+
+</section>
+
+
+

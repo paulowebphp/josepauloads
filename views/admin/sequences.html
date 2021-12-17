@@ -1,0 +1,263 @@
+<section class="dashboard dashboard-index">
+
+    <div class="container-fluid">            
+            
+
+            
+        <div class="row">
+
+                
+
+
+            <div class="col-md-3 col-12 dash-menu">
+
+
+                {include="admin-menu1"}
+                    
+
+            </div><!--col-->
+
+
+
+
+            <div class="col-md-9 col-12 dash-panel">
+
+
+                
+
+                
+                {if="$success != ''"}
+                <div class="row">
+                    <div class="col-12">
+                        <div class="alert alert-success alert-dismissible fade show" role="alert">
+                            {$success}
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                    </div> 
+                </div>  
+                {/if}
+
+                {if="$error != ''"}
+                <div class="row">
+                    <div class="col-12">
+                        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                            {$error}
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                    </div> 
+                </div>  
+                {/if}
+
+
+                <div class="row">
+                  <div class="col-9">
+                    <h3>Sequências</h3>
+                  </div>
+
+
+                  <div class="col-3">
+                     
+                    {if="$campaign"}
+
+                    <a href='/557788admin/maquinas/{$campaign.idmachine}/campanhas'>
+                      <button class="btn btn-light">
+                        Voltar
+                      </button>
+    
+                    </a> 
+
+
+                    <a href='/557788admin/campanhas/{$campaign.idcampaign}/sequencias/adicionar'>
+                      <button class="btn btn-primary">
+                        Adicionar
+                      </button>
+    
+                    </a> 
+                    {/if}
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-12">
+
+                    <h5>Data: {function="formatDateTime($campaign.dtregister)"}</h5>
+                  </div>
+                </div>
+
+
+                  
+
+                <div class="row">
+                    
+                    <div class="col-12">
+
+
+
+                        
+
+                    
+
+
+                        <div class="table-responsive">
+                            <table class="table table-striped table-sm">
+                    
+                    
+                    
+                              <thead>
+                                <tr>
+                                  <th>Data do Envio</th>
+                                  <th>Usuário</th>
+                                  <th>Apelido</th>
+                                  <th>Email</th>
+                                  
+                                  <th>Máquina</th>
+                                  <th>Assunto</th>
+                                  <th>Template</th>
+                                  <th>-</th>
+                                </tr>
+                              </thead>
+                    
+                    
+                              
+                              
+                              
+                              
+                              
+                    
+                    
+                    
+                              <tbody>
+                    
+                    
+                    
+                                {loop="$sequence"}
+                                <tr>
+                                  <td>{if="$value.dtsent != ''"}{function="formatDateTime($value.dtsent)"}{else}Não enviado{/if}</td>
+                                  <td>{$value.desperson} (id: {$value.iduser})</td>
+                                  <td>{$value.desnick}</td>
+                                  <td>{$value.deslogin}</td>
+                                  <td>{$value.desmachine} (id: {$value.idmachine})</td>
+                                  <td>{$value.dessubject}</td>
+                                  <td>{$value.destemplate}</td>
+                    
+                    
+                             
+                    
+                    
+                                  <td>
+
+                                    
+                                    {if="$value.insent != 1"}
+
+
+                                    <a onclick="return confirm('Deseja realmente duplicar este item?')" href='/557788admin/campanhas/{$value.idcampaign}/sequencias/duplicar/{$value.idsequence}'>
+                                      <button class="btn btn-link">
+                                        Duplicar
+                                      </button>
+                    
+                                    </a>
+
+
+
+                                    
+                                    <a href='/557788admin/campanhas/{$value.idcampaign}/sequencias/{$value.idsequence}'>
+                                      <button class="btn btn-dark">
+                                        Editar
+                                      </button>
+                    
+                                    </a>    
+                                    
+                                    
+
+
+
+                                    <a onclick="return confirm('Deseja realmente excluir este item?')" href='/557788admin/campanhas/{$value.idcampaign}/sequencias/deletar/{$value.idsequence}'>
+                                      <button class="btn btn-danger">
+                                        Deletar
+                                      </button>
+                    
+                                    </a>
+                                    
+
+                                    
+                                    <a onclick="return confirm('Deseja realmente enviar este item?')" href='/557788admin/campanhas/{$value.idcampaign}/sequencias/enviar/{$value.idsequence}'>
+                                      <button class="btn btn-primary">
+                                        Enviar
+                                      </button>
+                    
+                                    </a>
+                    
+                           
+                                    
+
+                                    {else}
+                                    <a onclick="return confirm('Deseja realmente duplicar este item?')" href='/557788admin/campanhas/{$value.idcampaign}/sequencias/duplicar/{$value.idsequence}'>
+                                      <button class="btn btn-link">
+                                        Duplicar
+                                      </button> 
+                    
+                                    </a>
+
+                                    {/if}
+
+                                    
+                                  </td>
+                                  
+                                 
+                                  
+                                  
+                                  
+                    
+                                 
+                    
+                                </tr>
+                    
+                                {/loop}
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                              </tbody>
+                    
+                    
+                    
+                    
+                            </table>
+                          </div>
+                        
+
+
+                    </div><!--col-lg-3-->
+
+
+
+                </div><!--row-->
+
+
+
+                
+
+
+
+
+
+
+            </div><!--col-->
+        
+
+
+      
+        </div><!--row-->
+    
+    </div><!--container-->
+
+</section>
+

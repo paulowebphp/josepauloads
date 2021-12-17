@@ -1,0 +1,201 @@
+<section class="dashboard dashboard-index">
+
+    <div class="container-fluid">            
+            
+
+            
+        <div class="row">
+
+                
+
+
+            <div class="col-md-3 col-12 dash-menu">
+
+
+                {include="admin-menu1"}
+                    
+
+            </div><!--col-->
+
+
+
+
+            <div class="col-md-9 col-12 dash-panel">
+
+
+
+                
+
+                <form action="/557788admin/analytics/{$analytic.idanalytic}/roi/{$roi.idroi}" method="post">
+
+
+
+                    <div class="row">
+                        <div class="col-12">
+                            <h3>Editar ROI em {$analytic.desanalyticabbr} - {$analytic.desanalytic}</h3>
+                        </div>
+                    </div>
+
+
+       
+
+
+                    {if="$success != ''"}
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="alert alert-success alert-dismissible fade show" role="alert">
+                                    {$success}
+                                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                            </div> 
+                        </div>  
+                    {/if}
+
+                    {if="$error != ''"}
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                                    {$error}
+                                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                            </div> 
+                        </div>  
+                    {/if}
+
+
+                    
+
+                    <div class="row">
+                        
+                        <div class="col-md-6 dash-column">
+
+
+
+                            <div class="dash-input-row">
+
+                                <label for="vlcost">Custo</label>
+
+                                <div class="input-group mb-3">
+
+                                   <input type="number" step="0.01" class="form-control" id="vlcost" name="vlcost" value="{$roi.vlcost}">
+
+                                   <input type="number" step="0.01" class="form-control" id="vlcost2" name="vlcost2" value="0">
+
+                                    <input type="number" step="0.01" class="form-control" id="vlcost3" name="vlcost3" value="0">
+
+
+                                </div>
+                                
+
+                                
+
+                            </div><!--dash-input-row-->
+
+
+
+
+                            <div class="dash-input-row">
+
+                                <label for="vlcard">Vendas</label>
+
+                                <div class="input-group mb-3">
+                                    <input type="number" step="0.01" class="form-control" id="vlcard" name="vlcard" value="{$roi.vlcard}">
+
+                                    <input type="number" step="0.01" class="form-control" id="vlcard2" name="vlcard2" value="0">
+
+                                    <input type="number" step="0.01" class="form-control" id="vlcard3" name="vlcard3" value="0">
+
+                                </div>
+                                
+
+                            </div><!--dash-input-row-->
+
+                          
+
+
+
+
+                            <div class="dash-input-row">
+                                
+                                <label for="vlboleto">Boletos</label>
+
+                                <div class="input-group mb-3">
+
+                                    <input type="number" step="0.01" class="form-control" id="vlboleto" name="vlboleto" value="{$roi.vlboleto}">
+
+                                    <input type="number" step="0.01" class="form-control" id="vlboleto2" name="vlboleto2" value="0">
+
+                                    <input type="number" step="0.01" class="form-control" id="vlboleto3" name="vlboleto3" value="0">
+
+                                </div>
+                                
+
+                            </div><!--dash-input-row-->
+
+
+
+
+
+
+                        
+
+                        </div><!--col-md-6-->
+
+
+
+
+
+                        <div class="col-md-6">
+                            
+                            
+                            
+                            &nbsp;
+
+                            
+                            
+                        </div><!--col-md-6-->
+
+
+                    </div><!--row-->
+
+
+
+
+
+                    <div class="row">
+
+                        <div class="col-md-12">
+
+                            <div class="dash-input-row input-footer">
+                                
+                                <button type="submit" class="btn btn-primary">Salvar</button>
+
+                                <a href="/557788admin/analytics/{$analytic.idanalytic}/roi" class="btn btn-danger">Voltar</a>
+
+                            </div><!--dash-input-row-->
+                            
+                        </div><!--col-->
+
+                    </div><!--row-->
+
+
+
+                </form>
+
+
+
+            </div><!--col-->
+        
+
+
+      
+        </div><!--row-->
+    
+    </div><!--container-->
+
+</section>
+

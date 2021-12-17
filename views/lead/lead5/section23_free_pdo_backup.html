@@ -1,0 +1,125 @@
+<section id="section23" class="site">
+
+    <div class="container">
+
+    
+
+
+
+
+
+        <div class="row centralizer">
+            
+            <div class="col-md-8 col-12 text-center">  
+                
+
+
+                <div class="bottom2">
+                    <h4><span class="size1">Coloque seu Email e Adquira Acesso <span class="color1"><u>Imediato</u></span> e <span class="color1"><u>Gratuito</u></span> ao curso <span class="color1">{$name}</span></span></h4>
+                </div>
+
+
+                <div class="bottom2">
+                    <h4><span class="size2"><span class="color1">Isso mesmo, não pague nada! R$ 0,00!</span></span></h4>
+                </div>
+
+
+                <div class="bottom3">
+                    <h4><span class="size2">Veja como é Simples fazer seu <span class="color1">Cadastro Gratuito:</span></span></h4>
+                </div>
+
+
+            </div>
+
+
+          
+       
+               
+            
+        </div><!--row-->
+
+
+
+
+
+        <div class="row centralizer">
+
+
+
+            <div class="col-md-8 col-12 text-center">
+
+                <form action='/{function="getLeadUri("lead5")"}' method="post">
+
+                    <div class="form-group">
+
+                      <!-- 
+                      <label for="exampleInputEmail1">E-mail</label>
+                      -->
+
+                      <div class="bottom2">
+                        <h4>E aí, você quer deixar de ser um <u>mero novato</u> e se tornar um Programador PHP mais <span class="color1">SEGURO</span> e <span class="color1">INDEPENDENTE?</span></h4>
+                        
+                    </div>
+                  
+
+                      
+
+                      {if="$error != ''"}
+                      <div class="alert alert-danger">
+                          {$error}
+                      </div>
+                      {/if}
+
+
+                      <input type="email" class="form-control bottom2" id="desemail" name="desemail" aria-describedby="emailHelp" placeholder="Seu Melhor E-mail" value="{$registerLead5.desemail}">
+
+                    </div>
+
+
+
+
+                  <!--
+                  <div class="form-group">
+
+                  <label for="exampleInputPassword1">Telefone</label>
+                  <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Telefone">
+
+                  </div>
+                  -->
+
+
+
+
+                    <div class="bottom2">
+                      
+                      <button id="freeRegisterButton" type="submit" class="button2 width80">Sim! Quero fazer meu Cadastro GRATUITO e começar a DOMINAR o PDO!</button>
+
+
+                    </div>
+
+                  </form>
+
+
+
+            </div>
+            
+            
+
+
+          
+       
+               
+            
+        </div><!--row-->
+
+
+
+
+
+
+
+
+
+    </div><!--container-->
+
+</section>

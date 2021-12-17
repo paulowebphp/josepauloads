@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{function="getSitePageConfig('metadescription')"}">
+    <meta name="robots" content="noindex">
+
+
+    <title>{function="getSitePageConfig('pagetitle')"}</title>
+    <link rel="icon" type="image/png" href="/res/images/favicon/dashboard/favicon.ico"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" type="text/css" href="/res/css/font-awesome.min.css"> -->
+    
+    <link rel="stylesheet" type="text/css" href="/res/css/dashboard/stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="/res/css/dashboard/stylesheet-mobile.css">
+
+    
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-176415597-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-176415597-1');
+  </script>
+
+    
+
+</head>
+
+
+
+<body>
+    
+
+    <header>
+
+        <div id="header-device" class="container-fluid">
+            
+
+            <div class="row">
+                
+
+                <div class="col-md-3">
+                    
+
+
+                    <div id="logo">
+
+                        <a href="/painel">
+                            <img id="logotipo" src="/res/images/logo/logo-white.png" alt="Logotipo">
+                        
+                        </a>
+
+                    </div>
+         
+
+                </div><!--col-md-->
+
+
+
+
+
+
+                <div class="col-md-9">
+                                       
+                        
+                    <div id="menu-header">
+                        <ul>
+
+
+
+                                <li><a href="/admin"><i class="fa fa-user"></i> {function="getDeslogin()"}</a></li>
+
+                                <li><a href="/admin/logout"><i class="fa fa-sign-out"></i> Sair</a></li>
+
+                            
+                        </ul>
+                    </div>
+
+
+
+                </div><!--col-md-->
+
+
+            </div><!--row-->
+
+
+        </div>
+
+
+
+    <div id="header-mobile" class="container-fluid">
+
+        <div class="row">
+
+
+
+            <div class="col-md-12">
+                
+
+
+
+                <div id="menu-condensed">
+                        
+                    <button id="btn-bars" type="button"><i class="fa fa-bars"></i></button>
+                    
+                </div>
+
+
+
+
+                
+
+                <div id="menu-mobile">
+                    
+                    <ul>
+
+                            <li><a href="/admin"><i class="fa fa-user"></i> {function="getDeslogin()"}</a></li>
+
+
+
+
+
+
+
+                            <div class="list-group">
+
+
+
+
+
+                                <div class="menu-main-pages">
+                                    
+                                    <a href="/admin" class="list-group-item list-group-item-action">Início</a>
+                                    <a href="/557788admin/usuarios" class="list-group-item list-group-item-action">Usuarios</a>
+                                    <a href="/557788admin/maquinas" class="list-group-item list-group-item-action">Máquinas</a>
+                                    <a href="/557788admin/analytics" class="list-group-item list-group-item-action">Analytics</a>
+                            
+                            
+                                </div>
+                            
+                            
+                                
+                            
+                            
+                            
+                            
+                            
+                            
+                                                  
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                <div class="menu-main-pages">
+                            
+                            
+                                    <a href="/admin/mudar-senha" class="list-group-item list-group-item-action">Alterar Senha</a>  
+                                    
+                                    <a href="/admin/logout" class="list-group-item list-group-item-action">Sair</a>
+                            
+                                </div><!--menu-main-pages-->
+                            
+                            
+                            
+                            
+                            </div><!--list-group-->
+
+
+                        
+
+
+
+
+
+
+
+
+                    </ul>
+
+                    <div class="bar-close text-center">
+                        <button type="button" class="btn btn-close"><i class="fa fa-close"></i></button>
+                    </div>
+
+                </div>
+
+
+                <div id="menu-mobile-mask"></div>
+
+
+
+            </div><!--row-->
+
+
+
+        </div><!--container-->
+
+    </div><!--header-mobile-->
+        
+             
+</header>

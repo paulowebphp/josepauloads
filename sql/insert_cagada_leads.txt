@@ -1,0 +1,46 @@
+INSERT INTO `tb_leads` (desname,desemail,despassword,desoriginalpassword,desip)
+VALUES ('','tameju@gmail.com','$2y$12$9G1Xw7PEeU6NFe8JZx/lBuWZGiHoh0XD7LB3oVjXMPAwvnWk94haW','toqy2w','131.0.31.2')
+
+
+
+
+
+INSERT INTO `tb_leads` (desname,desemail,despassword,desoriginalpassword,desip)
+VALUES ('','ohilario15@uol.com.br','$2y$12$G/JIGmxytgDe0VreBE4Flu0QzNW.6tu9ksk6h1p1yQpfzqWHq8w1W','j5o92w','179.242.165.55'),
+('','catucoso@gmail.com','$2y$12$N8jQMRtMM6LIG8jnLa4V7uyWSjC9Cyj7sQchGaUMEBTmtaB.5IYR.','ugvx01','45.174.13.28'),
+('','hjacutrim@gmail.com','$2y$12$XxcYaicSVczR4L.Akveybu3aGpDvnGWwzhy2kkCWoVT4wAMrVRfn6','31nyk2','181.220.231.73'),
+('','jose.geraldopereira1@hotmail.com','$2y$12$jOoTVvNJ6UyoT9RkiVmZM.wcFfFHuXkGkbBtCJbgXkWANSGwoeyKi','rwrrd0','191.243.212.237'),
+('','anne_de_paula@hotmail.com','$2y$12$6uyrK4dT2PDmwcz3L4a2euquLnSiCBeFuDvyiuWN/.GxTvPyD8Rau','avpng6','138.186.39.6'),
+('','v-a-b-c@bol.com.br','$2y$12$Q03wK7lBEYsTliNraK1Jhu.qYqOZA0QG.hl5Wwl7mPFhI2uKn.Z.S','o59p8c','181.220.4.254'),
+('','jwveras@hotmail.com','$2y$12$5Qf/KvGkdOuwnrON9ohJ2Ors6W25zShijJae2vgicjUcGxRahzo4K','ad6omb','189.92.232.106'),
+('','ramonrborges@yahoo.com.br','$2y$12$5aj3Lv9q30NzEREf1kxFoOwgwLH9VFwwV9xsJwDaqPZ5Y7D3t1x2K','p3hxng','177.74.114.19'),
+('','feroba1@yahoo.com.br','$2y$12$fpN8Sf3rYKfuG8jmI8anleeZBcFuSeRzEu6Fv3/Mz8nh6zQpExCj2','z2qyha','179.223.61.236'),
+('','gildasiofcosta2@gmail.com','$2y$12$/V24P5sT8KteqcHBHBH0hO/hMZmxYowgYS1w/dRr5kNL7g3tbemhm','p0uw9f','189.40.88.215'),
+('','grazytf@yahoo.com.br','$2y$12$8xXt0CTpdMYHpbWr1NgtaeL8u45nTmhR9rFZhQXMHWbqQbdwe1TyG','pwfmiy','168.232.40.130'),
+('','amarcos.vallota@gmail.com','$2y$12$bGD0EE6E1NLB52Y/ILXlceuX5cHoQFrOUmmvHvbv.rVsg1YbhJ2hu','uk9stl','177.149.186.251'),
+('','laercio-83@hotmail.com','$2y$12$jF6AhCIEgF2cYcCdzEBkVOa59utMgP9HJKLL3QpYrSLwFZclVxfrG','brqhce','179.236.134.71'),
+('','jfrancisco.brasil@hotmail.com','$2y$12$kuoA7hkEgbChgyx.74fbwu/.jJCoegtR8YYOTUo4XR2wloAft1nom','46weth','45.175.34.21'),
+('','jnrsantana@hotmail.com','$2y$12$4Jw9kGJYwdnELvWUbm62Medgw8KQNzCkxBTqWGOTSalyVntOFQZzS','ynxx5k','177.80.216.12'),
+('','emanuelisaias10@gmail.com','$2y$12$YM5857UwNJUCg8yTTqWzZe.900QPTYoLzGfot/yZf9FGExfH3AoG.','xtb6w4','168.181.14.245'),
+('','justino-macedo@hotmail.com','$2y$12$6mYS6R87reDDbrOeY/0K6.aBzbRus./1DQ4kmln5BiFuuNKCmhtbi','969bbb','191.7.201.81'),
+('','sam.anthony79@yahoo.com','$2y$12$TvtC5r850BlaJOhY9LV6selQAoz/typEqfNFBlt8MMBNav/iMZu9u','idqgj8','179.246.221.214'),
+('','naiianesouzza@gmail.com','$2y$12$na1uUlgeg8a4uSFbaMZ67OL/9vPRKFQHdevOwAB2PyyTrGowYlJf2','gk1kbq','177.91.110.223'),
+('','carolinabdutra@gmail.com','$2y$12$6nty0U4qBUmsFX2m2Ig0R.D0kSYLuh5HlS6cVMjYU4EJP5OMIYGqC','62wney','177.204.161.89'),
+('','augustoevertonrm@gmail.com','$2y$12$RjnPu7eKiYs4ZFccy6Goh.iO0lhkKVQ2ZfjfPNQMiGcGPXeIjVm9e','nl5tr0','187.19.248.16'),
+('','nildode@hotmail.com','$2y$12$7LmiyLvHyJrfHEaIA/ozDefYeIyjrMBVrZUNM/HaNtJYBzKQpd3pS','loelor','138.204.213.188'),
+('','ivangonca20@gmail.com','$2y$12$ApmfoglJw5nMzt8LrjMgaewmB5stmBEuS1JFiIxpAjhAE6Wv1CFZu','9w93ss','177.79.76.158'),
+('','tyana.turismo@gmail.com','$2y$12$vaWQHciNNxoIxHcHnWgak.z8g32mvp.QIPbcsiiQwvroNSg4k0Vum','9rj1rv','177.40.255.209'),
+('','rogerapb@gmail.com','$2y$12$ywGXdiSo.Ml5bGoqCl2m6.BJTWK4vbCqORCZgBqejOcaviYtEjKEW','wpj8qo','170.246.80.42'),
+('','bispoedmilson277@gmail.com','$2y$12$9x9V.dCF3mq3eZlyZd9DTOhm/kqS3iDexJ1vHO.XDMVHGs4N5hUiy','zp6ice','187.44.226.214'),
+('','iris.araujoo@hotmail.com','$2y$12$CozKsuUGTIGfhhPebo0Jre432aO4cHK1BT7uL/m08/Y7XuvZhyS.W','70r5bu','189.40.74.29'),
+('','thaisdanielle1304@hotmail.com','$2y$12$k/klBicyt0linJmcQxJVn.hxdfm405c1LY7Qaetkr7vZuE36acNDG','a2cz70','186.211.99.114'),
+('','christ.felipe@gmail.com','$2y$12$g88DdR/IcKAmLpV4RO5EV.G9pS6uVSK6kDpeai2Al7lddHriHyuVK','awz4sj','177.206.47.218'),
+('','djalmapalma@hotmail.com','$2y$12$xhAMmawSFRiqw0MWBM/dvu8uVgeAhl/WSPr/qcx3f6ySaaf8gXQyq','wjzbrz','189.40.92.150'),
+('','biaaa0205@gmail.com','$2y$12$uCBiKt5LkTVO49M4euvlcuRkPaS8YCEqayfeSbi6zHSwEOsBYguTW','hp1o8d','170.81.82.142'),
+('','giselemellosouza@gmail.com','$2y$12$cZjZLAJKTM.GORldfnmX2.mdQ6BOVuF.N9vIOaUTTjJ5F1zvCXj4K','xqyaxf','189.115.82.66'),
+('','teodorotamara1@gmail.com','$2y$12$d/sUXx7FiYdUNXv8QSTWKev81z82IBhE/SFsAE1sWy9eDvsIxqZye','crbchb','45.227.80.97'),
+('','danielaouza42@yahoo.com.br','$2y$12$qM7JUdx8GBpgQyOwq3MD/.CavLaiXzCiN5cSNkE10KeRTWVt.GhHu','gyc47l','179.235.241.161'),
+('','anaelisaaosf96@gmail.com','$2y$12$fgmxlEyGAdKt1p6uTNo9xOOPs3Sf4a6dyGrUe7VW3BA9QyxL5tb/S','8ey13j','179.157.117.47'),
+('','talitabarretu@gmail.com','$2y$12$ZZDhvhClYiMeJF8SWBHameHzd43VXlrNZ6fpUnbnU8XqUlqvxpV4K','v7of1f','179.158.211.89'),
+('','leidiana.sgmolina@gmail.com','$2y$12$.6j/gTRm3gKFd1Xv7mdns.FkOfb6/wegWvTo/MyNC15/OKtmSBVp2','7om5m6','187.87.77.13'),
+('','emy.almeida@hotmail.com','$2y$12$yQ22XPsajfqEE9KrBalZAeNCLRq4CEANOeKC3lQ3ms/W01/MWd6xa','a9hc4o','45.185.153.255')
