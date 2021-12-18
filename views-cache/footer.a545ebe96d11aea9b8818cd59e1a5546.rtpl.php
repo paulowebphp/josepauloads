@@ -1,4 +1,4 @@
-<footer class="text-center">
+<?php if(!class_exists('Rain\Tpl')){exit;}?><footer class="text-center">
 
     <div class="container-fluid">
   
@@ -22,7 +22,7 @@
 
                 <p>
                     
-                    José Paulo Carvalho © {function="getYear()"} -
+                    Ext2 Marketing Direto e WebDesign © <?php echo getYear(); ?> - CNPJ 34.700.513/0001-27<br>
                     
 
                     <span class="pointer1" id="ModalLanding2Button" data-toggle="modal" data-target="#ModalLanding2">
@@ -44,11 +44,11 @@
   
   
   
-    {if="getUri() == 'painel'"}
+    <?php if( getUri() == 'painel' ){ ?>
         <a href="https://wa.me/5531984050125?text=Quero%20falar%20com%20um%20Consultor%20de%20Cursos%20de%20Viol%C3%A3o!" style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;" target="_blank">
             <i style="margin-top:16px" class="fa fa-whatsapp"></i>
         </a>
-    {/if}
+    <?php } ?>
     
     
     

@@ -3,6 +3,7 @@
 use \Core\Page;
 use \Core\PageRedirect;
 use \Core\Model\Album;
+use \Core\Model\Landing;
 
 
 
@@ -48,13 +49,11 @@ $app->get( '/recomendo-este-curso', function()
 $app->get( '/', function()
 {
 	
+	$link1 = 'https://wa.me/5531984050125?text=Olá,%20preciso%20de%20um%20Gestor%20de%20Tráfego%20e%20gostaria%20de%20marcar%20uma%20Call!';
 
 
 	$page = new Page();
 
-
-
-	
 
 	
 	/*
@@ -63,14 +62,14 @@ $app->get( '/', function()
 	exit;
 	*/
 
-	$portfolio = new Album();
+	//$portfolio = new Album();
 
-	$portfolio = Album::getPortfolio();
+	//$portfolio = Album::getPortfolio();
 
 
-	$certificate = new Album();
+	///$certificate = new Album();
 
-	$certificate = Album::getCertificate();
+	//$certificate = Album::getCertificate();
 
 
 
@@ -80,8 +79,10 @@ $app->get( '/', function()
 
 		[
 
-			'portfolio'=>$portfolio,
-			'certificate'=>$certificate,
+			//'portfolio'=>$portfolio,
+			//'certificate'=>$certificate,
+			'link1'=>$link1,
+			'error'=>Landing::getError()
 		]
 	
 	);//end setTpl

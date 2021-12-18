@@ -10,8 +10,8 @@ class Rule extends Model
 {
 
 
-	const CANONICAL_NAME = 'ext22.com.br';
-	const DOMAIN_PRODUCTION = 'ext2.com.br';
+	const CANONICAL_NAME = 'josepauloads1.com';
+	const DOMAIN_PRODUCTION = 'josepauloads.com';
 
 	const LEAD_PASSWORD_LENGTH = 6;
 	const DEFAULT_LEAD_PASSWORD = '12345678';

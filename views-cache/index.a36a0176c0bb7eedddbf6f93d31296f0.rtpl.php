@@ -1,4 +1,4 @@
-<section id="section1" class="site">
+<?php if(!class_exists('Rain\Tpl')){exit;}?><section id="section1" class="site">
 
     <div class="container">
 
@@ -926,7 +926,7 @@
                 </div>
 
                 <div class="bottom2">
-                    <a target="_blank" href="{$link1}">
+                    <a target="_blank" href="<?php echo htmlspecialchars( $link1, ENT_COMPAT, 'UTF-8', FALSE ); ?>">
                         <button id="checkOutButton" class="button2">
                             <i class="fa fa-whatsapp"></i>&nbsp; Sim! Quero marcar uma Call pra fazer a Gestão de Tráfego do meu Negócio!
                         </button>
