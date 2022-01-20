@@ -786,7 +786,69 @@
 
 
 
+<section id="section16" class="site">
 
+    <div class="container">
+
+
+        <div class="row">
+
+            <div class="col-md-7 col-12 vertical-centralizer bottom2">
+
+                
+
+
+                <div class="media10">
+                    
+                    <img src="/res/images/cases/case07a.jpg" alt="Campanha">
+                </div>  
+                
+
+            </div>
+          
+
+            <div class="col-md-5 col-12">
+
+                <div class="bottom2">
+                    <h2>NICHO FINANCEIRO</h2>
+                </div>
+
+                
+                <div class="bottom2">
+
+                    <ul> 
+
+                        <li><i class="fa fa-plus"></i>&nbsp; Cliente entrou em contato com dificuldades para subir campanha para Nicho Financeiro no Google Ads.</li>
+                        
+                                              
+                        <li><i class="fa fa-plus"></i>&nbsp; Segundo ele o Google derrubou todas as suas campanhas há 2 meses atrás e ele não conseguia subir novamente. </li>
+
+                        <li><i class="fa fa-plus"></i>&nbsp; Relatou que o Google já reprovava os anúncios logo ao tentar subir e ele não entendia o motivo.</li>
+
+                        <li><i class="fa fa-plus"></i>&nbsp; Foi então feito uma Landing Page persuasiva e focada em conversão para o WhatsApp e seguidas todas as regras e políticas do Google para este Nicho.</li>
+
+                        <li><i class="fa fa-plus"></i>&nbsp; Resultado, campanha aprovada, rodando já há 1 semana normalmente e recebendo cliques qualificados.</li>
+
+                        <li><i class="fa fa-plus"></i>&nbsp; Cliente satisfeito e voltando a faturar com seu Negócio.</li>
+                                         
+
+                        
+
+                    </ul>
+
+                </div><!--gifts-section1-->
+
+
+
+
+
+            </div>
+            
+
+        </div>
+        
+
+</section>
 
 
 
