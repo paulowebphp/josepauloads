@@ -22,7 +22,7 @@
 
                 <p>
                     
-                    José Paulo Carvalho © <?php echo getYear(); ?> -
+                    José Paulo Carvalho © <?php echo getYear(); ?> - CNPJ 34.700.513/0001-27<br>
                     
 
                     <span class="pointer1" id="ModalLanding2Button" data-toggle="modal" data-target="#ModalLanding2">
