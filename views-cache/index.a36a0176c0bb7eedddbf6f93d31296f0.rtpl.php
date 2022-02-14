@@ -21,6 +21,8 @@
                             Gestor de Tráfego 
                                 &nbsp;<i class="fa fa-circle"></i>&nbsp;
                             Google Ads
+                                &nbsp;<i class="fa fa-circle"></i>&nbsp;
+                            Facebook Ads
                         </span>
                     </h3>
                 </div>
