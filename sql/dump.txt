@@ -55,6 +55,10 @@ mysqldump -u root -p --routines db_musicov1 > ../../../musicodevalor/sql/db_musi
 mysqldump -u root -p --routines db_spa > ../../../ext2/sql/db_spa_dump2.sql
 
 
+
+mysqldump -u root -p --routines db_spa > ../../../projetologin/sql/db_projetologin_dump.sql
+
+
 SELECT COUNT(*) AS intTable
 FROM information_schema.TABLES
 WHERE TABLE_SCHEMA = 'db_amarcasarv1';

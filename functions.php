@@ -6,6 +6,24 @@ use \Core\Validate;
 use \Core\Model\User;
 
 
+
+
+
+
+
+function checkIsProduction()
+{
+
+	return ( getHttpHost() == Rule::DOMAIN_PRODUCTION );
+
+
+}//end function
+
+
+
+
+
+
 function formatDate( $date )
 {
 
