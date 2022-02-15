@@ -991,7 +991,7 @@
 
                 <div class="bottom2">
                     <a target="_blank" href="<?php echo htmlspecialchars( $link1, ENT_COMPAT, 'UTF-8', FALSE ); ?>">
-                        <button id="checkOutButton" class="button2">
+                        <button id="lead" class="button2">
                             <i class="fa fa-whatsapp"></i>&nbsp; Sim! Quero marcar uma Call pra fazer a Gestão de Tráfego do meu Negócio!
                         </button>
                     </a>
