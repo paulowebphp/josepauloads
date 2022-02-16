@@ -14,15 +14,27 @@
 
                 </div>
 
-                <div class="bottom2">
+                <div class="bottom0">
                         
                     <h3>
                         <span class="color1">
                             Gestor de Tráfego 
                                 &nbsp;<i class="fa fa-circle"></i>&nbsp;
                             Google Ads
-                                &nbsp;<i class="fa fa-circle"></i>&nbsp;
-                            Facebook Ads
+                                
+                        </span>
+                    </h3>
+                </div>
+
+                <div class="bottom2">
+                        
+                    <h3>
+                        <div class="media13">
+                            <img src="/res/images/br32.png" alt="Bandeira do Brasil">
+                        </div>
+
+                        <span class="color1">
+                            Atendo a Todo Brasil
                         </span>
                     </h3>
                 </div>
@@ -990,7 +1002,7 @@
                 </div>
 
                 <div class="bottom2">
-                    <a target="_blank" href="<?php echo htmlspecialchars( $link1, ENT_COMPAT, 'UTF-8', FALSE ); ?>">
+                    <a href="<?php echo htmlspecialchars( $link1, ENT_COMPAT, 'UTF-8', FALSE ); ?>">
                         <button id="lead" class="button2">
                             <i class="fa fa-whatsapp"></i>&nbsp; Sim! Quero marcar uma Call pra fazer a Gestão de Tráfego do meu Negócio!
                         </button>

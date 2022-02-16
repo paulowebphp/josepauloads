@@ -70,7 +70,8 @@ filter: brightness(90%);
 border-radius:8px; 
 box-shadow: #f1d600 0 9px 30px -6px;
 }
-
+.media13 img{vertical-align: bottom;}
+.media13{display: inline-block;}
 .caption1{width:85%; margin:0 auto;}
 .box1{
 border-radius: 8px;
