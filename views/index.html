@@ -132,7 +132,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        Olá, meu nome é José Paulo, sou <span class="color4">Programador</span> e <span class="color4">Gestor de Tráfego,</span> e trabalho criando Campanhas no <span class="color4">Google Ads.</span>
+                        Olá, meu nome é José Paulo, moro em Belo Horizonte-MG, sou <span class="color4">Programador,</span> <span class="color4">Gestor de Tráfego</span> e trabalho criando Campanhas no <span class="color4">Google Ads.</span>
                     </h4>
 
                 </div><!--gifts-section1-->
