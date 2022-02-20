@@ -569,7 +569,7 @@
 
 
 
-<section id="section7" class="site">
+<section id="section17" class="site">
 
     <div class="container">
 
@@ -601,11 +601,11 @@
 
                     <ul> 
 
-                        <li><i class="fa fa-plus"></i>&nbsp; Cliente trabalha como  <span class="color1"><strong>Afiliado</strong></span> e tinha dificuldade para vender com ROI no Nicho Black, e pediu o acompanhamento de um mês</li>
+                        <li><i class="fa fa-plus"></i>&nbsp; Cliente trabalha como  <span class="color5"><strong>Afiliado</strong></span> e tinha dificuldade para vender com ROI no Nicho Black, e pediu o acompanhamento de um mês</li>
                         
-                        <li><i class="fa fa-plus"></i>&nbsp; Escolhemos o produto, planejamos e executamos uma Estratégia e <span class="color1"><strong>Otimizamos</strong></span> a Campanha</li>
+                        <li><i class="fa fa-plus"></i>&nbsp; Escolhemos o produto, planejamos e executamos uma Estratégia e <span class="color5"><strong>Otimizamos</strong></span> a Campanha</li>
 
-                        <li><i class="fa fa-plus"></i>&nbsp; Resultado é, apesar de alguns Boletos não pagos, um <span class="color1"><strong>ROI de 3,03</strong></span> após 1 mês e cliente aprendeu a vender no nicho Black com lucro.</li>
+                        <li><i class="fa fa-plus"></i>&nbsp; Resultado é, apesar de alguns Boletos não pagos, um <span class="color5"><strong>ROI de 3,03</strong></span> após 1 mês e cliente aprendeu a vender no nicho Black com lucro.</li>
 
 
                         
@@ -1006,21 +1006,21 @@
 
                 <div class="bottom2">
                     <h4>
-                        Como seria se você pudesse usar o <span class="color1">Poder da Internet</span> a seu favor pra fazer <span class="color1">mais vendas?</span>
+                        Como seria se você pudesse usar o <span class="color5">Poder da Internet</span> a seu favor pra fazer <span class="color5">mais vendas?</span>
                     </h4>
                 </div>
 
 
                 <div class="bottom2">
                     <h4>
-                        Como seria se você pudesse <u>parar de sofrer pra subir campanhas</u> no <span class="color1">Google Ads?</span>
+                        Como seria se você pudesse <u>parar de sofrer pra subir campanhas</u> no <span class="color5">Google Ads?</span>
                     </h4>
                 </div>
 
 
                 <div class="bottom2">
                     <h4>
-                        Como seria se você pudesse <span class="color1">parar de perder dinheiro</span> com <u>configurações erradas</u> e <span class="color1">direcionar melhor</span> o seu orçamento?
+                        Como seria se você pudesse <span class="color5">parar de perder dinheiro</span> com <u>configurações erradas</u> e <span class="color5">direcionar melhor</span> o seu orçamento?
                     </h4>
                 </div>
 
