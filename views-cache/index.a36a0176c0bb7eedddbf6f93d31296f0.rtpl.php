@@ -569,7 +569,7 @@
 
 
 
-<section id="section17" class="site">
+<section id="section7" class="site">
 
     <div class="container">
 
@@ -601,11 +601,11 @@
 
                     <ul> 
 
-                        <li><i class="fa fa-plus"></i>&nbsp; Cliente trabalha como  <span class="color5"><strong>Afiliado</strong></span> e tinha dificuldade para vender com ROI no Nicho Black, e pediu o acompanhamento de um mês</li>
+                        <li><i class="fa fa-plus"></i>&nbsp; Cliente trabalha como  <span class="color1"><strong>Afiliado</strong></span> e tinha dificuldade para vender com ROI no Nicho Black, e pediu o acompanhamento de um mês</li>
                         
-                        <li><i class="fa fa-plus"></i>&nbsp; Escolhemos o produto, planejamos e executamos uma Estratégia e <span class="color5"><strong>Otimizamos</strong></span> a Campanha</li>
+                        <li><i class="fa fa-plus"></i>&nbsp; Escolhemos o produto, planejamos e executamos uma Estratégia e <span class="color1"><strong>Otimizamos</strong></span> a Campanha</li>
 
-                        <li><i class="fa fa-plus"></i>&nbsp; Resultado é, apesar de alguns Boletos não pagos, um <span class="color5"><strong>ROI de 3,03</strong></span> após 1 mês e cliente aprendeu a vender no nicho Black com lucro.</li>
+                        <li><i class="fa fa-plus"></i>&nbsp; Resultado é, apesar de alguns Boletos não pagos, um <span class="color1"><strong>ROI de 3,03</strong></span> após 1 mês e cliente aprendeu a vender no nicho Black com lucro.</li>
 
 
                         
