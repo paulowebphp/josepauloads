@@ -1115,7 +1115,7 @@
                 
                 <div class="bottom2">
                     <h4>
-                        Então pressione o botão abaixo para ir no meu WhatsApp e conversar <span class="color1">diretamente comigo!</span>
+                        Então pressione o botão abaixo para ir no meu WhatsApp e converse <span class="color1">diretamente comigo!</span>
                     </h4>
                 </div>
               
