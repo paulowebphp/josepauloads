@@ -21,6 +21,8 @@
                             Gestor de Tráfego 
                                 &nbsp;<i class="fa fa-circle"></i>&nbsp;
                             Google Ads
+                                &nbsp;<i class="fa fa-circle"></i>&nbsp;
+                            Facebook Ads
                                 
                         </span>
                     </h3>
@@ -132,7 +134,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        Olá, meu nome é José Paulo, moro em Belo Horizonte-MG, sou <span class="color4">Programador,</span> <span class="color4">Gestor de Tráfego</span> e trabalho criando Campanhas no <span class="color4">Google Ads.</span>
+                        Olá, meu nome é José Paulo, moro em Belo Horizonte-MG, sou <span class="color1">Programador,</span> <span class="color1">Gestor de Tráfego</span> e trabalho criando Campanhas no <span class="color1">Google Ads</span> e <span class="color1">Facebook Ads.</span>
                     </h4>
 
                 </div><!--gifts-section1-->
@@ -141,7 +143,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        Eu posso ajudar você a <span class="color4">Alavancar</span> o seu Negócio fazendo a <span class="color4">Gestão do Tráfego</span> dos seus Anúncios Online.
+                        Eu posso ajudar você a <span class="color1">Alavancar</span> o seu Negócio fazendo a <span class="color1">Gestão do Tráfego</span> dos seus Anúncios Online.
                     </h4>
 
                 </div><!--gifts-section1-->
@@ -150,7 +152,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        Acredite! Neste <span class="color4">exato momento</span> tem alguém na Internet <u>procurando</u> pelos serviços que <u>VOCÊ</u> pode oferecer.
+                        Acredite! Neste <span class="color1">exato momento</span> tem alguém na Internet <u>procurando</u> pelos serviços que <u>VOCÊ</u> pode oferecer.
                     </h4>
 
                 </div><!--gifts-section1-->
@@ -260,7 +262,7 @@
                 <div class="col-12">
                     <div class="media10">
                 
-                        <img src="/res/images/ads.jpg" alt="Anúncio Online">
+                        <img src="/res/images/ads01.jpg" alt="Anúncio Online">
                     </div>  
                 </div>
 
@@ -279,14 +281,14 @@
                 <div class="bottom2">
 
                     <h4>
-                        Você certamente já viu esses <span class="color1"><strong>Anúncios</strong></span> e <span class="color1"><strong>Patrocinados</strong></span> quando você faz alguma pesquisa no <u>Google</u> ou navega no <u>Facebook.</u>
+                        Você certamente já viu esses <span class="color1">Anúncios</span> e <span class="color1">Patrocinados</span> quando você faz alguma pesquisa no <u>Google</u> ou navega no <u>Facebook.</u>
                     </h4>
 
                 </div>
 
                 <div class="bottom2">
                     <h4>
-                        Existe uma <span class="color1"><strong>Estratégia</strong></span> e uma <span class="color1"><strong>Técnica</strong></span> para criar esses Anúncios e receber cliques de pessoas que <u>REALMENTE</u> estejam <span class="color1"><strong>procurando pelos seus produtos ou serviços.</strong></span>
+                        Existe uma <span class="color1">Estratégia</span> e uma <span class="color1">Técnica</span> para criar esses Anúncios e receber cliques de pessoas que <u>REALMENTE</u> estejam <span class="color1">procurando pelos seus produtos ou serviços.</span>
                     </h4>
 
                     
@@ -294,7 +296,7 @@
 
                 <div class="bottom5">
                     <h4>
-                        E é isso que um <span class="color1"><strong>Gestor de Tráfego</strong></span> faz pra você.
+                        E é isso que um <span class="color1">Gestor de Tráfego</span> faz pra você.
                     </h4>
                 </div>
 
@@ -324,64 +326,6 @@
     </div><!--container-->
 
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -557,6 +501,68 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <section id="section18" class="site">
 
     <div class="container">
@@ -569,10 +575,10 @@
 
                 
 
-
+                
                 <div class="media10">
                     
-                    <img src="/res/images/ads2.jpg" alt="Anúncio Online">
+                    <img src="/res/images/ads02.jpg" alt="Anúncio Online">
                 </div>  
                 
 
@@ -584,12 +590,13 @@
                 <div class="bottom2">
                     <h2>COMO FUNCIONA A GESTÃO DE TRÁFEGO?</h2>
                 </div>
+                
             
 
 
                 <div class="bottom2">
                     <h4>
-                        O Gestor de Tráfego recebe <u>permissão</u> para <span class="color1"><strong>criar e editar os seus Anúncios</strong></span> conforme os objetivos que foram traçados. 
+                        O Gestor de Tráfego recebe <u>permissão</u> para <span class="color1">criar e editar os seus Anúncios</span> conforme os objetivos que foram traçados. 
                     </h4>
                 </div>
 
@@ -599,7 +606,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        O pagamento pelo serviço de gestão de tráfego é <span class="color1"><strong>mensal,</strong></span> pois é necessário um constante monitoramento.
+                        O pagamento pelo serviço de gestão de tráfego é <span class="color1">mensal,</span> pois é necessário um constante monitoramento.
                     </h4> 
 
                 </div>
@@ -608,7 +615,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        O orçamento em geral fica entre <span class="color1"><strong>R$300</strong></span> (mínimo) e por volta de <span class="color1"><strong>R$2.000,</strong></span> dependendo das características de cada cliente.
+                        O orçamento em geral fica entre <span class="color1">R$300</span> (mínimo) e por volta de <span class="color1">R$2.000,</span> dependendo das características de cada cliente.
                     </h4> 
 
                 </div>
@@ -618,15 +625,13 @@
                 <div class="bottom2">
 
                     <h4>
-                        O trabalho é <u>100% Online,</u> não necessitando da presença física das partes envolvidas, e por isso, <span class="color1"><strong>atendemos a pessoas de Todo o Brasil.</strong></span>
+                        O trabalho é <u>100% Online,</u> não necessitando da presença física das partes envolvidas, e por isso, <span class="color1">atendemos a pessoas de Todo o Brasil.</span>
                     </h4> 
 
                 </div>
                 
 
-
-
-
+                
 
                 
 
@@ -676,9 +681,127 @@
 
 
 
+<section id="section14" class="site">
+
+    <div class="container">
+        
+        <div class="row bottom2 centralizer">
+     
+            <div class="col-md-6 text-center">
+                
+                <div class="bottom2">
+                    <h2>
+                        MINHAS ÁREAS DE ATUAÇÃO
+                    </h2>
+                </div>
+                
+                               
+                
+
+            </div><!--col-->
+            
+        </div><!--row-->
 
 
 
+
+
+
+
+
+
+
+
+
+        
+        <div class="row align1">
+
+
+
+            <div class="col-md-4 col-12 text-center centralizer bottom2">
+    
+                <div class="box4">
+
+                    <div class="bottom2">
+                        <i class="fa fa-search"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>Google Ads</h3>
+                    </div>
+
+                    <h4>Campanhas para Rede de Pesquisa e Rede de Display</h4>
+
+                </div>
+
+            </div>
+
+
+
+            
+
+
+            <div class="col-md-4 col-12 text-center centralizer bottom2">
+    
+                <div class="box4">
+
+                    <div class="bottom2">
+                        <i class="fa fa-facebook"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>Facebook Ads</h3>
+                    </div>
+
+                    <h4>Anúncios patrocinados no Facebook e Instagram</h4>
+
+                </div>
+
+            </div>
+
+
+
+
+
+
+
+            <div class="col-md-4 col-12 text-center centralizer bottom2">
+    
+                <div class="box4">
+
+                    <div class="bottom2">
+                        <i class="fa fa-list"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>Outros</h3>
+                    </div>
+
+                    <h4>Google Meu Negócio; YouTube Ads; Google Search Console (SEO)...</h4>
+
+                </div>
+
+            </div>
+
+
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+    </div><!--container-->
+
+</section>
 
 
 

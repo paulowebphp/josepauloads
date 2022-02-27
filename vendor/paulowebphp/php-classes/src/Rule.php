@@ -26,7 +26,7 @@ class Rule extends Model
 	/*********************************LANDING1 ***************************************/
 	/*********************************LANDING1 ***************************************/
 	const URI_LANDING1 = 'gestor';
-	const URI_LANDING2 = 'lista-espanhol';
+	const URI_LANDING2 = 'consultoria';
 
 	const URI_LANDING3 = 'colors';
 	const URI_LANDING4 = 'fonts';

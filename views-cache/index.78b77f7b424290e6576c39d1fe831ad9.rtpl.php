@@ -1,4 +1,4 @@
-<section id="section1" class="site">
+<?php if(!class_exists('Rain\Tpl')){exit;}?><section id="section1" class="site">
 
     <div class="container">
 
@@ -18,12 +18,8 @@
                         
                     <h3>
                         <span class="color1">
-                            Gestor de Tráfego 
-                                &nbsp;<i class="fa fa-circle"></i>&nbsp;
-                            Google Ads
-                                &nbsp;<i class="fa fa-circle"></i>&nbsp;
-                            Facebook Ads
-                                
+                            Consultoria em Tráfego Pago e Orgânico
+                    
                         </span>
                     </h3>
                 </div>
@@ -134,7 +130,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        Olá, meu nome é José Paulo, moro em Belo Horizonte-MG, sou <span class="color1">Programador,</span> <span class="color1">Gestor de Tráfego</span> e trabalho criando Campanhas no <span class="color1">Google Ads</span> e <span class="color1">Facebook Ads.</span>
+                        Olá, meu nome é José Paulo, moro em Belo Horizonte-MG, sou <span class="color4">Programador,</span> <span class="color4">Gestor de Tráfego Pago</span> e trabalho dando consultoria sobre <u>tráfego pago e orgânico</u> em diversas plataformas.
                     </h4>
 
                 </div><!--gifts-section1-->
@@ -143,19 +139,13 @@
                 <div class="bottom2">
 
                     <h4>
-                        Eu posso ajudar você a <span class="color1">Alavancar</span> o seu Negócio fazendo a <span class="color1">Gestão do Tráfego</span> dos seus Anúncios Online.
+                        Eu posso ajudar você a <span class="color4">Alavancar</span> o seu Negócio aperfeiçoando as <span class="color4">estratégias</span> e os <span class="color4">processos</span> da sua <span class="color4">Gestão de Tráfego.</span>
                     </h4>
 
                 </div><!--gifts-section1-->
 
 
-                <div class="bottom2">
-
-                    <h4>
-                        Acredite! Neste <span class="color1">exato momento</span> tem alguém na Internet <u>procurando</u> pelos serviços que <u>VOCÊ</u> pode oferecer.
-                    </h4>
-
-                </div><!--gifts-section1-->
+        
 
                          
 
@@ -274,29 +264,40 @@
             <div class="col-md-6 col-12">
 
                 <div class="bottom2">
-                    <h2>O QUE É GESTÃO DE TRÁFEGO?</h2>
+                    <h2>O QUE É CONSTULTORIA EM TRÁFEGO?</h2>
                 </div>
 
                 
                 <div class="bottom2">
 
                     <h4>
-                        Você certamente já viu esses <span class="color1">Anúncios</span> e <span class="color1">Patrocinados</span> quando você faz alguma pesquisa no <u>Google</u> ou navega no <u>Facebook.</u>
+                        Quando você estiver precisando de <u>algum tipo de ajuda</u> com seus <span class="color1">Anúncios Online,</span> é importante poder contar com uma <span class="color1">Consultoria em Tráfego Pago.</span>
                     </h4>
 
                 </div>
 
+
                 <div class="bottom2">
                     <h4>
-                        Existe uma <span class="color1">Estratégia</span> e uma <span class="color1">Técnica</span> para criar esses Anúncios e receber cliques de pessoas que <u>REALMENTE</u> estejam <span class="color1">procurando pelos seus produtos ou serviços.</span>
+                        Da mesma forma, quando você precisar de ajuda com o <span class="color1">Google Meu Negócio</span> ou o <span class="color1">SEO</span> para ficar no Topo das Buscas organicamente, vai precisar de uma Consultoria em Tráfego Orgânico.
                     </h4>
 
                     
                 </div>
 
+                <div class="bottom2">
+                    <h4>
+                        De qualquer forma, o consultor irá analisar o seu conteúdo do ponto de vista <span class="color1">Estratégico</span> e <span class="color1">Operacional</span> e propor <u>mudanças</u> ou <u>melhorias.</u>
+                    </h4>
+
+                    
+                </div>
+
+
+
                 <div class="bottom5">
                     <h4>
-                        E é isso que um <span class="color1">Gestor de Tráfego</span> faz pra você.
+                        O Consultor também é importante para entender <span class="color1">como e quando Escalar</span> uma Campanha que já está performando.
                     </h4>
                 </div>
 
@@ -328,6 +329,387 @@
 </section>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section14" class="site">
+
+    <div class="container">
+        
+        <div class="row bottom2 centralizer">
+     
+            <div class="col-md-6 text-center">
+                
+                <div class="bottom2">
+                    <h2>
+                        MINHAS ÁREAS DE ATUAÇÃO
+                    </h2>
+                </div>
+                
+                               
+                
+
+            </div><!--col-->
+            
+        </div><!--row-->
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        <div class="row align1">
+
+
+
+            <div class="col-md-4 col-12 text-center centralizer bottom2">
+    
+                <div class="box4">
+
+                    <div class="bottom2">
+                        <i class="fa fa-google"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>Google Ads</h3>
+                    </div>
+
+                    <h4>Campanhas para Rede de Pesquisa e Rede de Display</h4>
+
+                </div>
+
+            </div>
+
+
+
+            
+
+
+            <div class="col-md-4 col-12 text-center centralizer bottom2">
+    
+                <div class="box4">
+
+                    <div class="bottom2">
+                        <i class="fa fa-facebook"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>Facebook Ads</h3>
+                    </div>
+
+                    <h4>Anúncios patrocinados no Facebook e Instagram</h4>
+
+                </div>
+
+            </div>
+
+
+
+
+
+
+
+            <div class="col-md-4 col-12 text-center centralizer bottom2">
+    
+                <div class="box4">
+
+                    <div class="bottom2">
+                        <i class="fa fa-home"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>Google Meu Negócio</h3>
+                    </div>
+
+                    <h4>Atraia Leads gratuitamente com essa ferramenta poderosíssima</h4>
+
+                </div>
+
+            </div>
+
+
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+        <div class="row align1 centralizer">
+
+
+
+            <div class="col-md-4 col-12 text-center centralizer bottom2">
+    
+                <div class="box4">
+
+                    <div class="bottom2">
+                        <i class="fa fa-search"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>SEO - Google Search Console</h3>
+                    </div>
+
+                    <h4>Seu site no Topo das pesquisas Orgâncias do Google</h4>
+
+                </div>
+
+            </div>
+
+
+
+
+
+
+
+            <div class="col-md-4 col-12 text-center centralizer bottom2">
+    
+                <div class="box4">
+
+                    <div class="bottom2">
+                        <i class="fa fa-youtube"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>YouTube Ads</h3>
+                    </div>
+
+                    <h4>Aparecendo numa das maiores redes de Conteúdo da internet</h4>
+
+                </div>
+
+            </div>
+
+
+
+        </div>
+
+
+
+
+
+
+
+
+
+    </div><!--container-->
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section18" class="site">
+
+    <div class="container">
+        
+        
+
+        <div class="row">
+
+            <div class="col-md-6 col-12 vertical-centralizer bottom2">
+
+                
+
+
+                <div class="media10">
+                    
+                    <img src="/res/images/ads02.jpg" alt="Anúncio Online">
+                </div>  
+                
+
+            </div>
+          
+
+            <div class="col-md-6 col-12">
+
+                
+                <div class="bottom2">
+                    <h2>COMO FUNCIONA A CONSULTORIA EM TRÁFEGO PAGO?</h2>
+                </div>
+            
+
+
+                <div class="bottom2">
+                    <h4>
+                        O Consultor irá prestar toda assessoria ao Cliente dos pontos de vista <span class="color1">Estratégico</span> e <span class="color1">Operacional.</span> 
+                    </h4>
+                </div>
+
+
+                <div class="bottom2">
+                    <h4>
+                        O trabalho pode ser feito 100% Online, por <u>aplicativo de mensagens (WhatsApp)</u> e <u>videoconferência,</u> e <span class="color1">atendemos a pessoas de Todo Brasil.</span>
+                    </h4>
+                </div>
+
+
+                
+
+                <div class="bottom2">
+
+                    <h4>
+                        O pagamento pelo serviço de consultoria de tráfego é cobrado por <span class="color1">hora.</span>
+                    </h4> 
+
+                </div>
+
+
+                <div class="bottom2">
+
+                    <h4>
+                        O orçamento em geral fica entre <span class="color1">R$30/hora</span> (mínimo) e por volta de <span class="color1">R$200/hora,</span> dependendo das características de cada cliente.
+                    </h4> 
+
+                </div>
+
+                
+                
+
+
+
+
+
+                
+
+            </div>
+            
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+    </div><!--container-->
+
+</section>
 
 
 
@@ -479,329 +861,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="section18" class="site">
-
-    <div class="container">
-        
-        
-
-        <div class="row">
-
-            <div class="col-md-6 col-12 vertical-centralizer bottom2">
-
-                
-
-                
-                <div class="media10">
-                    
-                    <img src="/res/images/ads02.jpg" alt="Anúncio Online">
-                </div>  
-                
-
-            </div>
-          
-
-            <div class="col-md-6 col-12">
-
-                <div class="bottom2">
-                    <h2>COMO FUNCIONA A GESTÃO DE TRÁFEGO?</h2>
-                </div>
-                
-            
-
-
-                <div class="bottom2">
-                    <h4>
-                        O Gestor de Tráfego recebe <u>permissão</u> para <span class="color1">criar e editar os seus Anúncios</span> conforme os objetivos que foram traçados. 
-                    </h4>
-                </div>
-
-
-                
-
-                <div class="bottom2">
-
-                    <h4>
-                        O pagamento pelo serviço de gestão de tráfego é <span class="color1">mensal,</span> pois é necessário um constante monitoramento.
-                    </h4> 
-
-                </div>
-
-
-                <div class="bottom2">
-
-                    <h4>
-                        O orçamento em geral fica entre <span class="color1">R$300</span> (mínimo) e por volta de <span class="color1">R$2.000,</span> dependendo das características de cada cliente.
-                    </h4> 
-
-                </div>
-
-
-
-                <div class="bottom2">
-
-                    <h4>
-                        O trabalho é <u>100% Online,</u> não necessitando da presença física das partes envolvidas, e por isso, <span class="color1">atendemos a pessoas de Todo o Brasil.</span>
-                    </h4> 
-
-                </div>
-                
-
-                
-
-                
-
-            </div>
-            
-
-        </div>
-
-
-
-
-
-
-
-
-
-
-    </div><!--container-->
-
-</section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="section14" class="site">
-
-    <div class="container">
-        
-        <div class="row bottom2 centralizer">
-     
-            <div class="col-md-6 text-center">
-                
-                <div class="bottom2">
-                    <h2>
-                        MINHAS ÁREAS DE ATUAÇÃO
-                    </h2>
-                </div>
-                
-                               
-                
-
-            </div><!--col-->
-            
-        </div><!--row-->
-
-
-
-
-
-
-
-
-
-
-
-
-        
-        <div class="row align1">
-
-
-
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
-    
-                <div class="box4">
-
-                    <div class="bottom2">
-                        <i class="fa fa-search"></i>
-                    </div>
-
-
-                    <div class="bottom1">
-                        <h3>Google Ads</h3>
-                    </div>
-
-                    <h4>Campanhas para Rede de Pesquisa e Rede de Display</h4>
-
-                </div>
-
-            </div>
-
-
-
-            
-
-
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
-    
-                <div class="box4">
-
-                    <div class="bottom2">
-                        <i class="fa fa-facebook"></i>
-                    </div>
-
-
-                    <div class="bottom1">
-                        <h3>Facebook Ads</h3>
-                    </div>
-
-                    <h4>Anúncios patrocinados no Facebook e Instagram</h4>
-
-                </div>
-
-            </div>
-
-
-
-
-
-
-
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
-    
-                <div class="box4">
-
-                    <div class="bottom2">
-                        <i class="fa fa-list"></i>
-                    </div>
-
-
-                    <div class="bottom1">
-                        <h3>Outros</h3>
-                    </div>
-
-                    <h4>Google Meu Negócio; YouTube Ads; Google Search Console (SEO)...</h4>
-
-                </div>
-
-            </div>
-
-
-
-        </div>
-
-
-
-
-
-
-
-
-
-
-    </div><!--container-->
-
-</section>
 
 
 
@@ -1495,21 +1554,21 @@
 
                 <div class="bottom2">
                     <h4>
-                        Como seria se você pudesse usar o <span class="color5">Poder da Internet</span> a seu favor pra fazer <span class="color5">mais vendas?</span>
+                        Como seria se você pudesse <span class="color5"> resolver (ou entender) problemas cruciais</span> que podem estar acontecendo nas suas Campanhas?</span>
                     </h4>
                 </div>
 
 
                 <div class="bottom2">
                     <h4>
-                        Como seria se você pudesse <u>parar de sofrer pra subir campanhas</u> no <span class="color5">Google Ads?</span>
+                        E se você conseguisse <span class="color5">rapidamente</span> adquirir o conhecimento necessário pra fazer suas Campanhas converterem mais?
                     </h4>
                 </div>
 
 
                 <div class="bottom2">
                     <h4>
-                        Como seria se você pudesse <span class="color5">parar de perder dinheiro</span> com <u>configurações erradas</u> e <span class="color5">direcionar melhor</span> o seu orçamento?
+                        Como seria se você pudessse <u>Escalar</u> suas vendas <span class="color5">de forma segura?</span>
                     </h4>
                 </div>
 
@@ -1593,7 +1652,7 @@
                 <div class="bottom2">
                     <h4>
                         <span class="size1">
-                            Sim, você pode ter tudo isso, com a ajuda de um <span class="color1">Gestor de Tráfego!</span>
+                            Sim, você pode ter tudo isso, com a ajuda de um <span class="color1">Consultor de Tráfego!</span>
                         </span>
                     </h4>
                 </div>
@@ -1615,7 +1674,7 @@
                 </div>
 
                 <div class="bottom2">
-                    <a href="{$link1}">
+                    <a href="<?php echo htmlspecialchars( $link1, ENT_COMPAT, 'UTF-8', FALSE ); ?>">
                         <button id="lead" class="button2">
                             <i class="fa fa-whatsapp"></i>&nbsp; Sim! Quero conversar sobre a Gestão de Tráfego do meu Negócio!
                         </button>
