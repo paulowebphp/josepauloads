@@ -141,7 +141,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        Eu posso ajudar você a <span class="color4">Alavancar</span> o seu Negócio fazendo a <span class="color4">Gestão do Tráfego</span> da sua Publicidade Online.
+                        Eu posso ajudar você a <span class="color4">Alavancar</span> o seu Negócio fazendo a <span class="color4">Gestão do Tráfego</span> dos seus Anúncios Online.
                     </h4>
 
                 </div><!--gifts-section1-->
@@ -164,6 +164,206 @@
         
 
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section17" class="site">
+
+    <div class="container">
+        
+        
+
+        <div class="row">
+
+            <div class="col-md-6 col-12 vertical-centralizer bottom2">
+
+                <div class="col-12">
+                    <div class="media10">
+                
+                        <img src="/res/images/ads.jpg" alt="Anúncio Online">
+                    </div>  
+                </div>
+
+                
+
+            </div>
+          
+
+            <div class="col-md-6 col-12">
+
+                <div class="bottom2">
+                    <h2>O QUE É GESTÃO DE TRÁFEGO?</h2>
+                </div>
+
+                
+                <div class="bottom2">
+
+                    <h4>
+                        Você certamente já viu esses <span class="color1"><strong>Anúncios</strong></span> e <span class="color1"><strong>Patrocinados</strong></span> quando você faz alguma pesquisa no <u>Google</u> ou navega no <u>Facebook.</u>
+                    </h4>
+
+                </div>
+
+                <div class="bottom2">
+                    <h4>
+                        Existe uma <span class="color1"><strong>Estratégia</strong></span> e uma <span class="color1"><strong>Técnica</strong></span> para criar esses Anúncios e receber cliques de pessoas que <u>REALMENTE</u> estejam <span class="color1"><strong>procurando pelos seus produtos ou serviços.</strong></span>
+                    </h4>
+
+                    
+                </div>
+
+                <div class="bottom5">
+                    <h4>
+                        E é isso que um <span class="color1"><strong>Gestor de Tráfego</strong></span> faz pra você.
+                    </h4>
+                </div>
+
+
+
+
+
+
+
+
+
+
+            </div>
+            
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+    </div><!--container-->
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -329,6 +529,172 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section18" class="site">
+
+    <div class="container">
+        
+        
+
+        <div class="row">
+
+            <div class="col-md-6 col-12 vertical-centralizer bottom2">
+
+                
+
+
+                <div class="media10">
+                    
+                    <img src="/res/images/ads2.jpg" alt="Anúncio Online">
+                </div>  
+                
+
+            </div>
+          
+
+            <div class="col-md-6 col-12">
+
+                <div class="bottom2">
+                    <h2>COMO FUNCIONA A GESTÃO DE TRÁFEGO?</h2>
+                </div>
+            
+
+
+                <div class="bottom2">
+                    <h4>
+                        O Gestor de Tráfego recebe <u>permissão</u> para <span class="color1"><strong>criar e editar os seus Anúncios</strong></span> conforme os objetivos que foram traçados. 
+                    </h4>
+                </div>
+
+
+                
+
+                <div class="bottom2">
+
+                    <h4>
+                        O pagamento pelo serviço de gestão de tráfego é <span class="color1"><strong>mensal,</strong></span> pois é necessário um constante monitoramento.
+                    </h4> 
+
+                </div>
+
+
+                <div class="bottom2">
+
+                    <h4>
+                        O orçamento em geral fica entre <span class="color1"><strong>R$300</strong></span> (mínimo) e por volta de <span class="color1"><strong>R$2.000,</strong></span> dependendo das características de cada cliente.
+                    </h4> 
+
+                </div>
+
+
+
+                <div class="bottom2">
+
+                    <h4>
+                        O trabalho é <u>100% Online,</u> não necessitando da presença física das partes envolvidas, e por isso, <span class="color1"><strong>atendemos a pessoas de Todo o Brasil.</strong></span>
+                    </h4> 
+
+                </div>
+                
+
+
+
+
+
+                
+
+            </div>
+            
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+    </div><!--container-->
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <section id="section24" class="site">
 
     <div class="container">
@@ -348,7 +714,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        Alguns resultados recentes em Vendas
+                        Alguns resultados recentes
                     </h4>
 
                 </div><!--gifts-section1-->
