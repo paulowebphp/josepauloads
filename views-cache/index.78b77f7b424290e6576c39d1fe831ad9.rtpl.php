@@ -264,14 +264,14 @@
             <div class="col-md-6 col-12">
 
                 <div class="bottom2">
-                    <h2>O QUE É CONSTULTORIA EM TRÁFEGO?</h2>
+                    <h2>O QUE É CONSULTORIA EM TRÁFEGO?</h2>
                 </div>
 
                 
                 <div class="bottom2">
 
                     <h4>
-                        Quando você estiver precisando de <u>algum tipo de ajuda</u> com seus <span class="color1">Anúncios Online,</span> é importante poder contar com uma <span class="color1">Consultoria em Tráfego Pago.</span>
+                        Quando você estiver precisando de <u>algum tipo de ajuda</u> com seus <span class="color1">Anúncios Online</span> ou o seu <span class="color1">Posicionamento Orgânico,</span> é importante poder contar com uma <span class="color1">Consultoria em Tráfego.</span>
                     </h4>
 
                 </div>
@@ -279,15 +279,7 @@
 
                 <div class="bottom2">
                     <h4>
-                        Da mesma forma, quando você precisar de ajuda com o <span class="color1">Google Meu Negócio</span> ou o <span class="color1">SEO</span> para ficar no Topo das Buscas organicamente, vai precisar de uma Consultoria em Tráfego Orgânico.
-                    </h4>
-
-                    
-                </div>
-
-                <div class="bottom2">
-                    <h4>
-                        De qualquer forma, o consultor irá analisar o seu conteúdo do ponto de vista <span class="color1">Estratégico</span> e <span class="color1">Operacional</span> e propor <u>mudanças</u> ou <u>melhorias.</u>
+                        O consultor irá analisar com você a sua gestão de tráfego do ponto de vista <span class="color1">Estratégico</span> e <span class="color1">Operacional</span> e propor <u>mudanças</u> ou <u>melhorias.</u>
                     </h4>
 
                     
@@ -398,9 +390,9 @@
 
 <section id="section14" class="site">
 
-    <div class="container">
+    <div class="container-fluid">
         
-        <div class="row bottom2 centralizer">
+        <div class="row centralizer">
      
             <div class="col-md-6 text-center">
                 
@@ -429,11 +421,11 @@
 
 
         
-        <div class="row align1">
+        <div class="row align1 centralizer">
 
 
 
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
+            <div class="col-md-2 col-12 text-center centralizer">
     
                 <div class="box4">
 
@@ -457,7 +449,7 @@
             
 
 
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
+            <div class="col-md-2 col-12 text-center centralizer">
     
                 <div class="box4">
 
@@ -480,9 +472,7 @@
 
 
 
-
-
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
+            <div class="col-md-3 col-12 text-center centralizer">
     
                 <div class="box4">
 
@@ -503,22 +493,9 @@
 
 
 
-        </div>
 
 
-
-
-
-
-
-
-
-
-        <div class="row align1 centralizer">
-
-
-
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
+            <div class="col-md-3 col-12 text-center centralizer">
     
                 <div class="box4">
 
@@ -540,10 +517,7 @@
 
 
 
-
-
-
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
+            <div class="col-md-2 col-12 text-center centralizer">
     
                 <div class="box4">
 
@@ -562,9 +536,21 @@
 
             </div>
 
+            
+
 
 
         </div>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -646,7 +632,7 @@
 
                 
                 <div class="bottom2">
-                    <h2>COMO FUNCIONA A CONSULTORIA EM TRÁFEGO PAGO?</h2>
+                    <h2>COMO FUNCIONA A CONSULTORIA EM TRÁFEGO?</h2>
                 </div>
             
 
@@ -659,6 +645,15 @@
 
 
                 <div class="bottom2">
+
+                    <h4>
+                        O pagamento pelo serviço de consultoria de tráfego geralmente é cobrado por <span class="color1">hora.</span>
+                    </h4> 
+
+                </div>
+
+
+                <div class="bottom2">
                     <h4>
                         O trabalho pode ser feito 100% Online, por <u>aplicativo de mensagens (WhatsApp)</u> e <u>videoconferência,</u> e <span class="color1">atendemos a pessoas de Todo Brasil.</span>
                     </h4>
@@ -667,22 +662,10 @@
 
                 
 
-                <div class="bottom2">
-
-                    <h4>
-                        O pagamento pelo serviço de consultoria de tráfego é cobrado por <span class="color1">hora.</span>
-                    </h4> 
-
-                </div>
+                
 
 
-                <div class="bottom2">
-
-                    <h4>
-                        O orçamento em geral fica entre <span class="color1">R$30/hora</span> (mínimo) e por volta de <span class="color1">R$200/hora,</span> dependendo das características de cada cliente.
-                    </h4> 
-
-                </div>
+            
 
                 
                 

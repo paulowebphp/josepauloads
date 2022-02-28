@@ -28,8 +28,8 @@ class Rule extends Model
 	const URI_LANDING1 = 'gestor';
 	const URI_LANDING2 = 'consultoria';
 
-	const URI_LANDING3 = 'colors';
-	const URI_LANDING4 = 'fonts';
+	const URI_LANDING3 = 'gmn';
+	const URI_LANDING4 = 'ggl';
 	const URI_LANDING5 = 'keywords';
 	const URI_LANDING6 = 'hashtags';
 

@@ -337,6 +337,41 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <section id="section15" class="site">
 
     <div class="container">
@@ -606,21 +641,13 @@
                 <div class="bottom2">
 
                     <h4>
-                        O pagamento pelo serviço de gestão de tráfego é <span class="color1">mensal,</span> pois é necessário um constante monitoramento.
+                        O pagamento pelo serviço de gestão de tráfego em geral é <span class="color1">mensal,</span> quando exige um constante monitoramento.
                     </h4> 
 
                 </div>
 
 
-                <div class="bottom2">
-
-                    <h4>
-                        O orçamento em geral fica entre <span class="color1">R$300</span> (mínimo) e por volta de <span class="color1">R$2.000,</span> dependendo das características de cada cliente.
-                    </h4> 
-
-                </div>
-
-
+                
 
                 <div class="bottom2">
 
@@ -683,9 +710,9 @@
 
 <section id="section14" class="site">
 
-    <div class="container">
+    <div class="container-fluid">
         
-        <div class="row bottom2 centralizer">
+        <div class="row centralizer">
      
             <div class="col-md-6 text-center">
                 
@@ -718,7 +745,7 @@
 
 
 
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
+            <div class="col-md-3 col-12 text-center centralizer">
     
                 <div class="box4">
 
@@ -742,7 +769,7 @@
             
 
 
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
+            <div class="col-md-3 col-12 text-center centralizer">
     
                 <div class="box4">
 
@@ -767,7 +794,37 @@
 
 
 
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
+            <div class="col-md-3 col-12 text-center centralizer">
+    
+                <div class="box4">
+
+                    <div class="bottom2">
+                        <i class="fa fa-youtube"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>YouTube Ads</h3>
+                    </div>
+
+                    <h4>Apareça em uma das maiores redes de Conteúdo da internet</h4>
+
+                </div>
+
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="col-md-3 col-12 text-center centralizer">
     
                 <div class="box4">
 
@@ -777,10 +834,10 @@
 
 
                     <div class="bottom1">
-                        <h3>Outros</h3>
+                        <h3>Tráfego Orgânico</h3>
                     </div>
 
-                    <h4>Google Meu Negócio; YouTube Ads; Google Search Console (SEO)...</h4>
+                    <h4>Faço seu Google Meu Negócio e o SEO do seu site no Google Search Console pra você se posicionar bem organicamente</h4>
 
                 </div>
 

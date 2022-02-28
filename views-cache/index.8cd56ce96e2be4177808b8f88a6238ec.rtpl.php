@@ -1,4 +1,4 @@
-<section id="section1" class="site">
+<?php if(!class_exists('Rain\Tpl')){exit;}?><section id="section1" class="site">
 
     <div class="container">
 
@@ -18,8 +18,8 @@
                         
                     <h3>
                         <span class="color1">
-                            Consultoria em Tráfego Pago e Orgânico
-                    
+                            Gestor de Tráfego
+                            
                         </span>
                     </h3>
                 </div>
@@ -50,6 +50,97 @@
 
 
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section19" class="site">
+
+    <div class="container">
+
+
+        <div class="row centralizer">
+
+            <div class="col-md-10 col-12 text-center">
+
+                
+
+                <h2>COLOQUE A SUA EMPRESA NO GOOGLE
+                    <br>
+                    <small>
+                        E Turbine o Tráfego pro seu Site!
+                    </small>
+                </h2>
+                 
+            
+            </div>
+          
+
+            
+            
+
+        </div>
+        
+
+</section>
+
+
+
+
+
+
+
+
 
 
 
@@ -130,7 +221,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        Olá, meu nome é José Paulo, moro em Belo Horizonte-MG, sou <span class="color4">Programador,</span> <span class="color4">Gestor de Tráfego Pago</span> e trabalho dando consultoria sobre <u>tráfego pago e orgânico</u> em diversas plataformas.
+                        Olá, meu nome é José Paulo, moro em Belo Horizonte-MG, sou <span class="color1">Programador,</span> <span class="color1">Gestor de Tráfego</span> e trabalho criando colocando empresas para <span class="color1">aparecer no Google.</span>
                     </h4>
 
                 </div><!--gifts-section1-->
@@ -139,13 +230,19 @@
                 <div class="bottom2">
 
                     <h4>
-                        Eu posso ajudar você a <span class="color4">Alavancar</span> o seu Negócio aperfeiçoando as <span class="color4">estratégias</span> e os <span class="color4">processos</span> da sua <span class="color4">Gestão de Tráfego.</span>
+                        Eu posso ajudar você a <span class="color1">Alavancar</span> o seu Negócio trazendo <span class="color1">Tráfego Pago ou Orgânico vindo do Google até você,</span> com pessoas que estão interessadas em seus produtos ou serviços. 
                     </h4>
 
                 </div><!--gifts-section1-->
 
 
-        
+                <div class="bottom2">
+
+                    <h4>
+                        Acredite! Neste <span class="color1">exato momento</span> tem alguém na Internet <u>procurando</u> pelos serviços que <u>VOCÊ</u> pode oferecer.
+                    </h4>
+
+                </div><!--gifts-section1-->
 
                          
 
@@ -156,7 +253,6 @@
         
 
 </section>
-
 
 
 
@@ -264,32 +360,39 @@
             <div class="col-md-6 col-12">
 
                 <div class="bottom2">
-                    <h2>O QUE É CONSULTORIA EM TRÁFEGO?</h2>
+                    <h2>COMO APARECER NO GOOGLE?</h2>
                 </div>
 
                 
                 <div class="bottom2">
 
                     <h4>
-                        Quando você estiver precisando de <u>algum tipo de ajuda</u> com seus <span class="color1">Anúncios Online</span> ou o seu <span class="color1">Posicionamento Orgânico,</span> é importante poder contar com uma <span class="color1">Consultoria em Tráfego.</span>
+                        Você certamente já viu esses <span class="color1">Anúncios Online</span> quando você faz alguma pesquisa no <u>Google.</u>
                     </h4>
 
                 </div>
 
 
+
+                <div class="bottom2">
+
+                    <h4>
+                        Ou mesmo encontrou informações de rotas no Google Maps <span class="color1">quando procurou uma Barbearia perto de você.</span>
+                    </h4>
+
+                </div>
+
                 <div class="bottom2">
                     <h4>
-                        O consultor irá analisar com você a sua gestão de tráfego do ponto de vista <span class="color1">Estratégico</span> e <span class="color1">Operacional</span> e propor <u>mudanças</u> ou <u>melhorias.</u>
+                        Existe uma <span class="color1">Estratégia</span> e uma <span class="color1">Técnica</span> para colocar as informações da sua Empresa no Google e receber cliques de pessoas que <u>REALMENTE</u> estejam <span class="color1">procurando pelos seus produtos ou serviços.</span>
                     </h4>
 
                     
                 </div>
 
-
-
                 <div class="bottom5">
                     <h4>
-                        O Consultor também é importante para entender <span class="color1">como e quando Escalar</span> uma Campanha que já está performando.
+                        E é isso que <u>eu posso fazer pra você.</u>
                     </h4>
                 </div>
 
@@ -319,6 +422,58 @@
     </div><!--container-->
 
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -378,10 +533,10 @@
 
 
                     <div class="bottom1">
-                        <h3>Enxugando os seus Custos com Publicidade Online</h3>
+                        <h3>Controle de Custos com Publicidade Online</h3>
                     </div>
 
-                    <h4>Eu posso te ajudar a cortar gastos desnecessários e a direcionar melhor a sua Verba</h4>
+                    <h4>Você opta por gerar Tráfego Pago (investindo em anúncios) ou Orgânico (totalmente gratuito)</h4>
 
                 </div>
 
@@ -565,10 +720,10 @@
 
                 
 
-
+                
                 <div class="media10">
                     
-                    <img src="/res/images/ads02.jpg" alt="Anúncio Online">
+                    <img src="/res/images/gmn/gmn01.jpg" alt="Google Meu Negócio">
                 </div>  
                 
 
@@ -577,49 +732,48 @@
 
             <div class="col-md-6 col-12">
 
-                
                 <div class="bottom2">
-                    <h2>COMO FUNCIONA A CONSULTORIA EM TRÁFEGO?</h2>
+                    <h2>COMO FUNCIONA A GESTÃO DE TRÁFEGO?</h2>
                 </div>
+                
             
 
 
                 <div class="bottom2">
                     <h4>
-                        O Consultor irá prestar toda assessoria ao Cliente dos pontos de vista <span class="color1">Estratégico</span> e <span class="color1">Operacional.</span> 
+                        Eu, como Gestor de Tráfego, recebo <u>permissão</u> para <span class="color1">configurar as informações da Empresa</span> no Google.
+                    </h4>
+                </div>
+
+                <div class="bottom2">
+                    <h4>
+                        Se o objetivo for Tráfego Pago, serão planejadas e criadas <span class="color1">Campanhas de Anúncios Online.</span>
+                    </h4>
+                </div>
+
+                <div class="bottom2">
+                    <h4>
+                        Se o objetivo for Tráfego Orgânico, serão configuradas  informações da Empresa nas plataformas de <span class="color1">serviços do Google.</span>
                     </h4>
                 </div>
 
 
+    
+
+            
+
+                
+
                 <div class="bottom2">
 
                     <h4>
-                        O pagamento pelo serviço de consultoria de tráfego geralmente é cobrado por <span class="color1">hora.</span>
+                        O trabalho é <u>100% Online,</u> não necessitando da presença física das partes envolvidas, e por isso, <span class="color1">atendemos a pessoas de Todo o Brasil.</span>
                     </h4> 
 
                 </div>
-
-
-                <div class="bottom2">
-                    <h4>
-                        O trabalho pode ser feito 100% Online, por <u>aplicativo de mensagens (WhatsApp)</u> e <u>videoconferência,</u> e <span class="color1">atendemos a pessoas de Todo Brasil.</span>
-                    </h4>
-                </div>
-
-
                 
 
                 
-
-
-            
-
-                
-                
-
-
-
-
 
                 
 
@@ -640,7 +794,6 @@
     </div><!--container-->
 
 </section>
-
 
 
 
@@ -714,25 +867,6 @@
             
 
 
-            <div class="col-md-2 col-12 text-center centralizer">
-    
-                <div class="box4">
-
-                    <div class="bottom2">
-                        <i class="fa fa-facebook"></i>
-                    </div>
-
-
-                    <div class="bottom1">
-                        <h3>Facebook Ads</h3>
-                    </div>
-
-                    <h4>Anúncios patrocinados no Facebook e Instagram</h4>
-
-                </div>
-
-            </div>
-
 
 
 
@@ -800,6 +934,29 @@
                 </div>
 
             </div>
+
+
+
+
+            <div class="col-md-2 col-12 text-center centralizer">
+    
+                <div class="box4">
+
+                    <div class="bottom2">
+                        <i class="fa fa-list"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>Outros</h3>
+                    </div>
+
+                    <h4>Facebook Ads; Bing WebMaster...</h4>
+
+                </div>
+
+            </div>
+
 
             
 
@@ -1657,7 +1814,7 @@
                 </div>
 
                 <div class="bottom2">
-                    <a href="{$link1}">
+                    <a href="<?php echo htmlspecialchars( $link1, ENT_COMPAT, 'UTF-8', FALSE ); ?>">
                         <button id="lead" class="button2">
                             <i class="fa fa-whatsapp"></i>&nbsp; Sim! Quero conversar sobre a Gestão de Tráfego do meu Negócio!
                         </button>

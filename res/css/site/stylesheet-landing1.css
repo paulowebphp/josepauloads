@@ -289,11 +289,6 @@ text-shadow:1px 1px 1px #171f26,
 #section13 h4{color: #171f26;font-size:24px;}
 
 
-#section14{background:#e2e2e2;;padding:5% 0;}
-#section14 h2{color:#0f0ade;}
-#section14 h3{color:#0f0ade;}
-#section14 h4{color: #171f26;}
-#section14 i{font-size:2rem;color:#0f0ade;}
 
 
 
@@ -309,7 +304,22 @@ text-shadow:1px 1px 1px #171f26,
 
 
 
-#section17{background:#e2e2e2;padding: 80px 15px 50px 15px;}
+
+
+
+
+
+#section14{background:#f2f2f2;padding: 50px 15px 20px 15px;}
+#section14 h2{color:#0f0ade;}
+#section14 h3{color:#0f0ade;}
+#section14 h4{color: #171f26;}
+#section14 i{font-size:2rem;color:#0f0ade;}
+
+
+
+
+
+#section17{background:#f2f2f2;padding: 80px 15px 0 15px;}
 #section17 h2{color:#0f0ade;}
 #section17 h3{color:#0f0ade;}
 #section17 h4{color: #171f26;}
@@ -336,13 +346,11 @@ text-shadow:1px 1px 1px #171f26,
 
 
 
-#section8 {padding: 40px 15px 20px 15px;background: #f2f2f2;}
+#section8 {padding: 60px 15px 20px 15px;background: #e2e2e2;}
 #section8 img{filter:brightness(95%);}
-#section8 h2{color: #0f0ade;}
-
+#section8 h2{color: hsl(241, 91%, 45%);}
 #section8 i{color: #0f0ade;font-weight: bolder;}
 #section8 li{color: #171f26;}
-
 #section8 h4{color: #171f26;font-size:1.5rem;}
 
 
@@ -354,7 +362,7 @@ text-shadow:1px 1px 1px #171f26,
 
 
 
-#section18{background:#f2f2f2;padding: 80px 15px 50px 15px;}
+#section18{background:#e2e2e2;padding: 80px 15px 50px 15px;}
 #section18 h2{color:#0f0ade;}
 #section18 h3{color:#0f0ade;}
 #section18 h4{color: #171f26;}
@@ -362,10 +370,22 @@ text-shadow:1px 1px 1px #171f26,
 
 
 
-#section19{background:url("/res/images/banner/banner7.jpg") no-repeat;background-size:cover;padding:5% 0;background-position-x:center;}
-#section19 h2{color: #f1d600;}
-#section19 h3{color: #f1d600;text-shadow:#f1d600 0.05em 0.05em 0.1em;}
-#section19 h4{color: #f2f2f2;}
+
+
+
+
+
+#section19 {padding: 40px 15px 20px 15px;background: #f2f2f2;}
+#section19 img{filter:brightness(95%);}
+#section19 h2{font-weight: 800; color: #0f0ade;}
+#section19 h2 small{font-size: 24px; font-weight: 200;}
+#section19 i{color: #0f0ade;font-weight: bolder;}
+#section19 li{color: #171f26;}
+#section19 h4{color: #171f26;font-size:1.5rem;}
+
+
+
+
 
 
 

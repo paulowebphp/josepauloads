@@ -1,4 +1,4 @@
-<section id="section1" class="site">
+<?php if(!class_exists('Rain\Tpl')){exit;}?><section id="section1" class="site">
 
     <div class="container">
 
@@ -18,8 +18,10 @@
                         
                     <h3>
                         <span class="color1">
-                            Consultoria em Tráfego Pago e Orgânico
-                    
+                            Gestor de Tráfego 
+                                &nbsp;<i class="fa fa-circle"></i>&nbsp;
+                            Google Meu Negócio
+                                                                
                         </span>
                     </h3>
                 </div>
@@ -88,6 +90,35 @@
 
 
 
+<section id="section19" class="site">
+
+    <div class="container">
+
+
+        <div class="row centralizer">
+
+            <div class="col-md-10 col-12 text-center">
+
+                
+
+                <h2>COLOQUE A SUA EMPRESA NO GOOGLE MEU NEGÓCIO
+                    <br>
+                    <small>
+                        E Receba Visualizações Gratuitas Todos os Dias!
+                    </small>
+                </h2>
+                 
+            
+            </div>
+          
+
+            
+            
+
+        </div>
+        
+
+</section>
 
 
 
@@ -130,7 +161,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        Olá, meu nome é José Paulo, moro em Belo Horizonte-MG, sou <span class="color4">Programador,</span> <span class="color4">Gestor de Tráfego Pago</span> e trabalho dando consultoria sobre <u>tráfego pago e orgânico</u> em diversas plataformas.
+                        Olá, meu nome é José Paulo, moro em Belo Horizonte-MG, sou <span class="color1">Programador,</span> <span class="color1">Gestor de Tráfego</span> e trabalho colocando empresas pra aparecer no <span class="color1">Google Meu Negócio.</span>
                     </h4>
 
                 </div><!--gifts-section1-->
@@ -139,13 +170,19 @@
                 <div class="bottom2">
 
                     <h4>
-                        Eu posso ajudar você a <span class="color4">Alavancar</span> o seu Negócio aperfeiçoando as <span class="color4">estratégias</span> e os <span class="color4">processos</span> da sua <span class="color4">Gestão de Tráfego.</span>
+                        Eu posso ajudar você a <span class="color1">colocar sua Empresa no Google Meu Negócio</span> e receber todos os dias, <u>sem nenhum custo,</u> visualizações de pessoas que estão interessadas nos seus serviços.
                     </h4>
 
                 </div><!--gifts-section1-->
 
 
-        
+                <div class="bottom2">
+
+                    <h4>
+                        Acredite! Neste <span class="color1">exato momento</span> tem alguém na Internet <u>procurando</u> pelos serviços que <u>VOCÊ</u> pode oferecer.
+                    </h4>
+
+                </div><!--gifts-section1-->
 
                          
 
@@ -247,13 +284,11 @@
 
         <div class="row">
 
-            <div class="col-md-6 col-12 vertical-centralizer bottom2">
+            <div class="col-md-5 col-12 vertical-centralizer bottom2">
 
-                <div class="col-12">
-                    <div class="media10">
+                <div class="media10">
                 
-                        <img src="/res/images/ads01.jpg" alt="Anúncio Online">
-                    </div>  
+                    <img src="/res/images/gmn/gmn01.jpg" alt="Google Meu Negócio">
                 </div>
 
                 
@@ -261,35 +296,32 @@
             </div>
           
 
-            <div class="col-md-6 col-12">
+            <div class="col-md-7 col-12">
 
                 <div class="bottom2">
-                    <h2>O QUE É CONSULTORIA EM TRÁFEGO?</h2>
+                    <h2>O QUE É O GOOGLE MEU NEGÓCIO?</h2>
                 </div>
 
                 
                 <div class="bottom2">
 
                     <h4>
-                        Quando você estiver precisando de <u>algum tipo de ajuda</u> com seus <span class="color1">Anúncios Online</span> ou o seu <span class="color1">Posicionamento Orgânico,</span> é importante poder contar com uma <span class="color1">Consultoria em Tráfego.</span>
+                        Você certamente já viu essas informações <span class="color1">do lado direito</span> do seu Navegador quando você <span class="color1">faz alguma pesquisa,</span> pois é, esse é o <span class="color1">Google Meu Negócio.</span>
                     </h4>
 
                 </div>
 
-
                 <div class="bottom2">
                     <h4>
-                        O consultor irá analisar com você a sua gestão de tráfego do ponto de vista <span class="color1">Estratégico</span> e <span class="color1">Operacional</span> e propor <u>mudanças</u> ou <u>melhorias.</u>
+                        Existe uma <span class="color1">Estratégia</span> e uma <span class="color1">Técnica</span> para colocar essas informações no <u>Google Meu Negócio</u> e receber visualizações todos os dias de pessoas interessadas em seus <span class="color1">produtos e serviços.</span>
                     </h4>
 
                     
                 </div>
 
-
-
                 <div class="bottom5">
                     <h4>
-                        O Consultor também é importante para entender <span class="color1">como e quando Escalar</span> uma Campanha que já está performando.
+                        E é isso que um <span class="color1">Gestor de Google Meu Negócio</span> faz pra você.
                     </h4>
                 </div>
 
@@ -319,6 +351,40 @@
     </div><!--container-->
 
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -378,10 +444,10 @@
 
 
                     <div class="bottom1">
-                        <h3>Enxugando os seus Custos com Publicidade Online</h3>
+                        <h3>Custo Zero</h3>
                     </div>
 
-                    <h4>Eu posso te ajudar a cortar gastos desnecessários e a direcionar melhor a sua Verba</h4>
+                    <h4>Você não paga nada para aparecer no Google Meu Negócio, e pode aparecer para dezenas de pessoas todos os dias, de forma gratuita</h4>
 
                 </div>
 
@@ -402,10 +468,10 @@
 
 
                     <div class="bottom1">
-                        <h3>Expandindo o seu Negócio</h3>
+                        <h3>Conseguindo Novos Clientes</h3>
                     </div>
 
-                    <h4>Eu posso fazer novos clientes te descobrirem</h4>
+                    <h4>Você pode se surpreender com a quantidade de contatos, e até mesmo de ligações telefônicas que você pode receber pelo Google Meu Negócio</h4>
 
                 </div>
 
@@ -430,7 +496,7 @@
                         <h3>Turbinando o seu Faturamento</h3>
                     </div>
 
-                    <h4>Posso atrair o cliente certo para o seu negócio, aumentando a quantidade de vendas</h4>
+                    <h4>Vou atrair o cliente certo para o seu negócio, e fazer você aumentar a quantidade de vendas</h4>
 
                 </div>
 
@@ -452,6 +518,10 @@
     </div><!--container-->
 
 </section>
+
+
+
+
 
 
 
@@ -565,10 +635,10 @@
 
                 
 
-
+                
                 <div class="media10">
                     
-                    <img src="/res/images/ads02.jpg" alt="Anúncio Online">
+                    <img src="/res/images/gmn/gmn02.jpg" alt="Google Meu Negócio">
                 </div>  
                 
 
@@ -577,49 +647,43 @@
 
             <div class="col-md-6 col-12">
 
-                
                 <div class="bottom2">
-                    <h2>COMO FUNCIONA A CONSULTORIA EM TRÁFEGO?</h2>
+                    <h2>COMO FUNCIONA A GESTÃO DE GOGLE MEU NEGÓCIO?</h2>
                 </div>
+                
             
 
 
                 <div class="bottom2">
                     <h4>
-                        O Consultor irá prestar toda assessoria ao Cliente dos pontos de vista <span class="color1">Estratégico</span> e <span class="color1">Operacional.</span> 
+                        O Gestor de Tráfego recebe <u>permissão</u> para <span class="color1">para usar sua conta no Google Meu Negócios.</span>
                     </h4>
                 </div>
 
 
                 <div class="bottom2">
+                    <h4>
+                        Lá dentro ele configura todas as informações para sua Empresa aparecer no Google e ficar <span class="color1">bem posicionada.</span>
+                    </h4>
+                </div>
+
+
+                            
+
+                <div class="bottom2">
 
                     <h4>
-                        O pagamento pelo serviço de consultoria de tráfego geralmente é cobrado por <span class="color1">hora.</span>
+                        O trabalho é <u>100% Online,</u> não necessitando da presença física das partes envolvidas, e por isso, <span class="color1">atendemos a pessoas de Todo o Brasil.</span>
                     </h4> 
 
                 </div>
 
 
-                <div class="bottom2">
-                    <h4>
-                        O trabalho pode ser feito 100% Online, por <u>aplicativo de mensagens (WhatsApp)</u> e <u>videoconferência,</u> e <span class="color1">atendemos a pessoas de Todo Brasil.</span>
-                    </h4>
-                </div>
 
 
                 
 
                 
-
-
-            
-
-                
-                
-
-
-
-
 
                 
 
@@ -653,9 +717,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <section id="section14" class="site">
 
-    <div class="container-fluid">
+    <div class="container">
         
         <div class="row centralizer">
      
@@ -690,54 +770,7 @@
 
 
 
-            <div class="col-md-2 col-12 text-center centralizer">
-    
-                <div class="box4">
-
-                    <div class="bottom2">
-                        <i class="fa fa-google"></i>
-                    </div>
-
-
-                    <div class="bottom1">
-                        <h3>Google Ads</h3>
-                    </div>
-
-                    <h4>Campanhas para Rede de Pesquisa e Rede de Display</h4>
-
-                </div>
-
-            </div>
-
-
-
-            
-
-
-            <div class="col-md-2 col-12 text-center centralizer">
-    
-                <div class="box4">
-
-                    <div class="bottom2">
-                        <i class="fa fa-facebook"></i>
-                    </div>
-
-
-                    <div class="bottom1">
-                        <h3>Facebook Ads</h3>
-                    </div>
-
-                    <h4>Anúncios patrocinados no Facebook e Instagram</h4>
-
-                </div>
-
-            </div>
-
-
-
-
-
-            <div class="col-md-3 col-12 text-center centralizer">
+            <div class="col-md-4 col-12 text-center centralizer">
     
                 <div class="box4">
 
@@ -760,7 +793,7 @@
 
 
 
-            <div class="col-md-3 col-12 text-center centralizer">
+            <div class="col-md-4 col-12 text-center centralizer">
     
                 <div class="box4">
 
@@ -782,20 +815,20 @@
 
 
 
-            <div class="col-md-2 col-12 text-center centralizer">
+            <div class="col-md-4 col-12 text-center centralizer">
     
                 <div class="box4">
 
                     <div class="bottom2">
-                        <i class="fa fa-youtube"></i>
+                        <i class="fa fa-windows"></i>
                     </div>
 
 
                     <div class="bottom1">
-                        <h3>YouTube Ads</h3>
+                        <h3>Bing</h3>
                     </div>
 
-                    <h4>Aparecendo numa das maiores redes de Conteúdo da internet</h4>
+                    <h4>Apareça Organicamente no Bing, que com o Windows 11 começou a ficar mais acessado ainda</h4>
 
                 </div>
 
@@ -828,22 +861,6 @@
     </div><!--container-->
 
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1537,21 +1554,21 @@
 
                 <div class="bottom2">
                     <h4>
-                        Como seria se você pudesse <span class="color5"> resolver (ou entender) problemas cruciais</span> que podem estar acontecendo nas suas Campanhas?</span>
+                        Como seria se você pudesse usar o <span class="color5">Poder da Internet</span> a seu favor pra fazer <span class="color5">mais vendas?</span>
                     </h4>
                 </div>
 
 
                 <div class="bottom2">
                     <h4>
-                        E se você conseguisse <span class="color5">rapidamente</span> adquirir o conhecimento necessário pra fazer suas Campanhas converterem mais?
+                        Como seria se você pudesse <u>parar de sofrer pra subir campanhas</u> no <span class="color5">Google Ads?</span>
                     </h4>
                 </div>
 
 
                 <div class="bottom2">
                     <h4>
-                        Como seria se você pudessse <u>Escalar</u> suas vendas <span class="color5">de forma segura?</span>
+                        Como seria se você pudesse <span class="color5">parar de perder dinheiro</span> com <u>configurações erradas</u> e <span class="color5">direcionar melhor</span> o seu orçamento?
                     </h4>
                 </div>
 
@@ -1635,7 +1652,7 @@
                 <div class="bottom2">
                     <h4>
                         <span class="size1">
-                            Sim, você pode ter tudo isso, com a ajuda de um <span class="color1">Consultor de Tráfego!</span>
+                            Sim, você pode ter tudo isso, com a ajuda de um <span class="color1">Gestor de Tráfego!</span>
                         </span>
                     </h4>
                 </div>
@@ -1657,7 +1674,7 @@
                 </div>
 
                 <div class="bottom2">
-                    <a href="{$link1}">
+                    <a href="<?php echo htmlspecialchars( $link1, ENT_COMPAT, 'UTF-8', FALSE ); ?>">
                         <button id="lead" class="button2">
                             <i class="fa fa-whatsapp"></i>&nbsp; Sim! Quero conversar sobre a Gestão de Tráfego do meu Negócio!
                         </button>
