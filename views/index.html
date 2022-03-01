@@ -249,6 +249,70 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <section id="section17" class="site">
 
     <div class="container">
@@ -338,347 +402,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="section15" class="site">
-
-    <div class="container">
-        
-        <div class="row bottom2 centralizer">
-     
-            <div class="col-md-6 text-center">
-                
-                <div class="bottom2">
-                    <h2>
-                        COMO EU POSSO AGREGAR VALOR PARA O SEU NEGÓCIO?
-                    </h2>
-                </div>
-                
-                               
-                
-
-            </div><!--col-->
-            
-        </div><!--row-->
-
-
-
-
-
-
-
-
-
-
-
-
-        
-        <div class="row align1">
-
-
-
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
-    
-                <div class="box3">
-
-                    <div class="bottom2">
-                        <i class="fa fa-shield"></i>
-                    </div>
-
-
-                    <div class="bottom1">
-                        <h3>Enxugando os seus Custos com Publicidade Online</h3>
-                    </div>
-
-                    <h4>Eu posso te ajudar a cortar gastos desnecessários e a direcionar melhor a sua Verba</h4>
-
-                </div>
-
-            </div>
-
-
-
-            
-
-
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
-    
-                <div class="box3">
-
-                    <div class="bottom2">
-                        <i class="fa fa-expand"></i>
-                    </div>
-
-
-                    <div class="bottom1">
-                        <h3>Expandindo o seu Negócio</h3>
-                    </div>
-
-                    <h4>Eu posso fazer novos clientes te descobrirem</h4>
-
-                </div>
-
-            </div>
-
-
-
-
-
-
-
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
-    
-                <div class="box3">
-
-                    <div class="bottom2">
-                        <i class="fa fa-fighter-jet"></i>
-                    </div>
-
-
-                    <div class="bottom1">
-                        <h3>Turbinando o seu Faturamento</h3>
-                    </div>
-
-                    <h4>Posso atrair o cliente certo para o seu negócio, aumentando a quantidade de vendas</h4>
-
-                </div>
-
-            </div>
-
-
-
-        </div>
-
-
-
-
-
-
-
-
-
-
-    </div><!--container-->
-
-</section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="section18" class="site">
-
-    <div class="container">
-        
-        
-
-        <div class="row">
-
-            <div class="col-md-6 col-12 vertical-centralizer bottom2">
-
-                
-
-                
-                <div class="media10">
-                    
-                    <img src="/res/images/ads02.jpg" alt="Anúncio Online">
-                </div>  
-                
-
-            </div>
-          
-
-            <div class="col-md-6 col-12">
-
-                <div class="bottom2">
-                    <h2>COMO FUNCIONA A GESTÃO DE TRÁFEGO?</h2>
-                </div>
-                
-            
-
-
-                <div class="bottom2">
-                    <h4>
-                        O Gestor de Tráfego recebe <u>permissão</u> para <span class="color1">criar e editar os seus Anúncios</span> conforme os objetivos que foram traçados. 
-                    </h4>
-                </div>
-
-
-                
-
-                <div class="bottom2">
-
-                    <h4>
-                        O pagamento pelo serviço de gestão de tráfego em geral é <span class="color1">mensal,</span> quando exige um constante monitoramento.
-                    </h4> 
-
-                </div>
-
-
-                
-
-                <div class="bottom2">
-
-                    <h4>
-                        O trabalho é <u>100% Online,</u> não necessitando da presença física das partes envolvidas, e por isso, <span class="color1">atendemos a pessoas de Todo o Brasil.</span>
-                    </h4> 
-
-                </div>
-                
-
-                
-
-                
-
-            </div>
-            
-
-        </div>
-
-
-
-
-
-
-
-
-
-
-    </div><!--container-->
-
-</section>
 
 
 
@@ -875,35 +598,497 @@
 
 
 
-<section id="section24" class="site">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section18" class="site">
+
+    <div class="container">
+        
+        
+
+        <div class="row">
+
+            <div class="col-md-6 col-12 vertical-centralizer bottom2">
+
+                
+
+                
+                <div class="media10">
+                    
+                    <img src="/res/images/ads02.jpg" alt="Anúncio Online">
+                </div>  
+                
+
+            </div>
+          
+
+            <div class="col-md-6 col-12">
+
+                <div class="bottom2">
+                    <h2>COMO FUNCIONA A GESTÃO DE TRÁFEGO?</h2>
+                </div>
+                
+            
+
+
+                <div class="bottom2">
+                    <h4>
+                        O Gestor de Tráfego recebe <u>permissão</u> para <span class="color1">criar e editar os seus Anúncios</span> conforme os objetivos que foram traçados. 
+                    </h4>
+                </div>
+
+
+                
+
+                
+
+                <div class="bottom2">
+
+                    <h4>
+                        O trabalho é <u>100% Online,</u> não necessitando da presença física das partes envolvidas, e por isso, <span class="color1">atendemos a pessoas de Todo o Brasil.</span>
+                    </h4> 
+
+                </div>
+                
+
+                
+
+                
+
+            </div>
+            
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+    </div><!--container-->
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section15" class="site">
+
+    <div class="container">
+        
+        <div class="row bottom2 centralizer">
+     
+            <div class="col-md-6 text-center">
+                
+                <div class="bottom2">
+                    <h2>
+                        COMO EU POSSO AGREGAR VALOR PARA O SEU NEGÓCIO?
+                    </h2>
+                </div>
+                
+                               
+                
+
+            </div><!--col-->
+            
+        </div><!--row-->
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        <div class="row align1">
+
+
+
+            <div class="col-md-4 col-12 text-center centralizer bottom2">
+    
+                <div class="box3">
+
+                    <div class="bottom2">
+                        <i class="fa fa-shield"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>Enxugando os seus Custos com Publicidade Online</h3>
+                    </div>
+
+                    <h4>Eu posso te ajudar a cortar gastos desnecessários e a direcionar melhor a sua Verba</h4>
+
+                </div>
+
+            </div>
+
+
+
+            
+
+
+            <div class="col-md-4 col-12 text-center centralizer bottom2">
+    
+                <div class="box3">
+
+                    <div class="bottom2">
+                        <i class="fa fa-expand"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>Expandindo o seu Negócio</h3>
+                    </div>
+
+                    <h4>Eu posso fazer novos clientes te descobrirem</h4>
+
+                </div>
+
+            </div>
+
+
+
+
+
+
+
+            <div class="col-md-4 col-12 text-center centralizer bottom2">
+    
+                <div class="box3">
+
+                    <div class="bottom2">
+                        <i class="fa fa-fighter-jet"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>Turbinando o seu Faturamento</h3>
+                    </div>
+
+                    <h4>Posso atrair o cliente certo para o seu negócio, aumentando a quantidade de vendas</h4>
+
+                </div>
+
+            </div>
+
+
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+    </div><!--container-->
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section19" class="site">
 
     <div class="container">
 
 
         <div class="row centralizer">
 
-                     
+            <div class="col-md-10 col-12 text-center">
 
-            <div class="col-md-6 col-12 text-center">
+                
 
-                <div class="bottom1">
-                    <h2>RESULTADOS</h2>
-                </div>
-
-
-                <div class="bottom2">
-
-                    <h4>
-                        Alguns resultados recentes
-                    </h4>
-
-                </div><!--gifts-section1-->
-
-
-
-                         
-
+                <h2>RESULTADOS
+                    <br>
+                    <small>
+                        Veja alguns Resultados recentes!
+                    </small>
+                </h2>
+                 
+            
             </div>
+          
+
+            
             
 
         </div>
@@ -1552,21 +1737,21 @@
 
                 <div class="bottom2">
                     <h4>
-                        Como seria se você pudesse usar o <span class="color5">Poder da Internet</span> a seu favor pra fazer <span class="color5">mais vendas?</span>
+                        Como seria se você pudesse usar o <span class="color1">Poder da Internet</span> a seu favor pra fazer <span class="color1">mais vendas?</span>
                     </h4>
                 </div>
 
 
                 <div class="bottom2">
                     <h4>
-                        Como seria se você pudesse <u>parar de sofrer pra subir campanhas</u> no <span class="color5">Google Ads?</span>
+                        Como seria se você pudesse <u>parar de sofrer pra subir campanhas</u> no <span class="color1">Google</span> e no <span class="color1">Facebook?</span>
                     </h4>
                 </div>
 
 
                 <div class="bottom2">
                     <h4>
-                        Como seria se você pudesse <span class="color5">parar de perder dinheiro</span> com <u>configurações erradas</u> e <span class="color5">direcionar melhor</span> o seu orçamento?
+                        Como seria se você pudesse <span class="color1">parar de perder dinheiro</span> com <u>configurações erradas</u> e <span class="color1">direcionar melhor</span> o seu orçamento?
                     </h4>
                 </div>
 

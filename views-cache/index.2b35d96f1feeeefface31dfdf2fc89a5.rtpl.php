@@ -18,8 +18,7 @@
                         
                     <h3>
                         <span class="color1">
-                            Gestor de Tráfego 
-                                &nbsp;<i class="fa fa-circle"></i>&nbsp;
+                            Gestor de
                             Google Meu Negócio
                                                                 
                         </span>
@@ -397,26 +396,8 @@
 
 
 
-<section id="section15" class="site">
 
-    <div class="container">
-        
-        <div class="row bottom2 centralizer">
-     
-            <div class="col-md-6 text-center">
-                
-                <div class="bottom2">
-                    <h2>
-                        COMO EU POSSO AGREGAR VALOR PARA O SEU NEGÓCIO?
-                    </h2>
-                </div>
-                
-                               
-                
 
-            </div><!--col-->
-            
-        </div><!--row-->
 
 
 
@@ -429,281 +410,16 @@
 
 
 
-        
-        <div class="row align1">
 
 
 
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
-    
-                <div class="box3">
 
-                    <div class="bottom2">
-                        <i class="fa fa-shield"></i>
-                    </div>
 
 
-                    <div class="bottom1">
-                        <h3>Custo Zero</h3>
-                    </div>
 
-                    <h4>Você não paga nada para aparecer no Google Meu Negócio, e pode aparecer para dezenas de pessoas todos os dias, de forma gratuita</h4>
 
-                </div>
 
-            </div>
 
-
-
-            
-
-
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
-    
-                <div class="box3">
-
-                    <div class="bottom2">
-                        <i class="fa fa-expand"></i>
-                    </div>
-
-
-                    <div class="bottom1">
-                        <h3>Conseguindo Novos Clientes</h3>
-                    </div>
-
-                    <h4>Você pode se surpreender com a quantidade de contatos, e até mesmo de ligações telefônicas que você pode receber pelo Google Meu Negócio</h4>
-
-                </div>
-
-            </div>
-
-
-
-
-
-
-
-            <div class="col-md-4 col-12 text-center centralizer bottom2">
-    
-                <div class="box3">
-
-                    <div class="bottom2">
-                        <i class="fa fa-fighter-jet"></i>
-                    </div>
-
-
-                    <div class="bottom1">
-                        <h3>Turbinando o seu Faturamento</h3>
-                    </div>
-
-                    <h4>Vou atrair o cliente certo para o seu negócio, e fazer você aumentar a quantidade de vendas</h4>
-
-                </div>
-
-            </div>
-
-
-
-        </div>
-
-
-
-
-
-
-
-
-
-
-    </div><!--container-->
-
-</section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="section18" class="site">
-
-    <div class="container">
-        
-        
-
-        <div class="row">
-
-            <div class="col-md-6 col-12 vertical-centralizer bottom2">
-
-                
-
-                
-                <div class="media10">
-                    
-                    <img src="/res/images/gmn/gmn02.jpg" alt="Google Meu Negócio">
-                </div>  
-                
-
-            </div>
-          
-
-            <div class="col-md-6 col-12">
-
-                <div class="bottom2">
-                    <h2>COMO FUNCIONA A GESTÃO DE GOGLE MEU NEGÓCIO?</h2>
-                </div>
-                
-            
-
-
-                <div class="bottom2">
-                    <h4>
-                        O Gestor de Tráfego recebe <u>permissão</u> para <span class="color1">para usar sua conta no Google Meu Negócios.</span>
-                    </h4>
-                </div>
-
-
-                <div class="bottom2">
-                    <h4>
-                        Lá dentro ele configura todas as informações para sua Empresa aparecer no Google e ficar <span class="color1">bem posicionada.</span>
-                    </h4>
-                </div>
-
-
-                            
-
-                <div class="bottom2">
-
-                    <h4>
-                        O trabalho é <u>100% Online,</u> não necessitando da presença física das partes envolvidas, e por isso, <span class="color1">atendemos a pessoas de Todo o Brasil.</span>
-                    </h4> 
-
-                </div>
-
-
-
-
-                
-
-                
-
-                
-
-            </div>
-            
-
-        </div>
-
-
-
-
-
-
-
-
-
-
-    </div><!--container-->
-
-</section>
 
 
 
@@ -877,7 +593,290 @@
 
 
 
-<section id="section24" class="site">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section18" class="site">
+
+    <div class="container">
+        
+        
+
+        <div class="row">
+
+            <div class="col-md-6 col-12 vertical-centralizer bottom2">
+
+                
+
+                
+                <div class="media10">
+                    
+                    <img src="/res/images/gmn/gmn02.jpg" alt="Google Meu Negócio">
+                </div>  
+                
+
+            </div>
+          
+
+            <div class="col-md-6 col-12">
+
+                <div class="bottom2">
+                    <h2>COMO FUNCIONA A GESTÃO DE GOGLE MEU NEGÓCIO?</h2>
+                </div>
+                
+            
+
+
+                <div class="bottom2">
+                    <h4>
+                        O Gestor recebe <u>permissão</u> para <span class="color1">para usar sua conta no Google Meu Negócios.</span>
+                    </h4>
+                </div>
+
+
+                <div class="bottom2">
+                    <h4>
+                        Lá dentro ele configura todas as informações para sua Empresa aparecer no Google e ficar <span class="color1">bem posicionada.</span>
+                    </h4>
+                </div>
+
+
+                            
+
+                <div class="bottom2">
+
+                    <h4>
+                        O trabalho é <u>100% Online,</u> não necessitando da presença física das partes envolvidas, e por isso, <span class="color1">atendemos a pessoas de Todo o Brasil.</span>
+                    </h4> 
+
+                </div>
+
+
+
+
+                
+
+                
+
+                
+
+            </div>
+            
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+    </div><!--container-->
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section15" class="site">
+
+    <div class="container">
+        
+        <div class="row bottom2 centralizer">
+     
+            <div class="col-md-6 text-center">
+                
+                <div class="bottom2">
+                    <h2>
+                        COMO EU POSSO AGREGAR VALOR PARA O SEU NEGÓCIO?
+                    </h2>
+                </div>
+                
+                               
+                
+
+            </div><!--col-->
+            
+        </div><!--row-->
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        <div class="row align1">
+
+
+
+            <div class="col-md-4 col-12 text-center centralizer bottom2">
+    
+                <div class="box3">
+
+                    <div class="bottom2">
+                        <i class="fa fa-shield"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>Custo Zero</h3>
+                    </div>
+
+                    <h4>Você não paga nada para aparecer no Google Meu Negócio, e pode aparecer para dezenas de pessoas todos os dias, de forma gratuita</h4>
+
+                </div>
+
+            </div>
+
+
+
+            
+
+
+            <div class="col-md-4 col-12 text-center centralizer bottom2">
+    
+                <div class="box3">
+
+                    <div class="bottom2">
+                        <i class="fa fa-expand"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>Conseguindo Novos Clientes</h3>
+                    </div>
+
+                    <h4>Você pode se surpreender com a quantidade de contatos, e até mesmo de ligações telefônicas que você pode receber pelo Google Meu Negócio</h4>
+
+                </div>
+
+            </div>
+
+
+
+
+
+
+
+            <div class="col-md-4 col-12 text-center centralizer bottom2">
+    
+                <div class="box3">
+
+                    <div class="bottom2">
+                        <i class="fa fa-fighter-jet"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>Turbinando o seu Faturamento</h3>
+                    </div>
+
+                    <h4>Vou atrair o cliente certo para o seu negócio, e fazer você aumentar a quantidade de vendas</h4>
+
+                </div>
+
+            </div>
+
+
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+    </div><!--container-->
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section19" class="site">
 
     <div class="container">
 
@@ -1554,21 +1553,21 @@
 
                 <div class="bottom2">
                     <h4>
-                        Como seria se você pudesse usar o <span class="color5">Poder da Internet</span> a seu favor pra fazer <span class="color5">mais vendas?</span>
+                        Como seria se você pudesse usar o <span class="color1">Poder</span> do Google Meu Negócio a seu favor pra fazer <span class="color1">mais vendas?</span>
                     </h4>
                 </div>
 
 
                 <div class="bottom2">
                     <h4>
-                        Como seria se você pudesse <u>parar de sofrer pra subir campanhas</u> no <span class="color5">Google Ads?</span>
+                        Como seria se você pudesse <u>parar de sofrer pra fazer as configurações</u> dessa ferramenta?
                     </h4>
                 </div>
 
 
                 <div class="bottom2">
                     <h4>
-                        Como seria se você pudesse <span class="color5">parar de perder dinheiro</span> com <u>configurações erradas</u> e <span class="color5">direcionar melhor</span> o seu orçamento?
+                        Como seria se você conseguisse fazer sua Empresa <span class="color1">aparecer entre os primeiros colocados</span> no Google Meu Negócio?
                     </h4>
                 </div>
 
@@ -1652,7 +1651,7 @@
                 <div class="bottom2">
                     <h4>
                         <span class="size1">
-                            Sim, você pode ter tudo isso, com a ajuda de um <span class="color1">Gestor de Tráfego!</span>
+                            Sim, você pode ter tudo isso, com a ajuda de um <span class="color1">Gestor de Google Meu Negócio!</span>
                         </span>
                     </h4>
                 </div>
@@ -1676,7 +1675,7 @@
                 <div class="bottom2">
                     <a href="<?php echo htmlspecialchars( $link1, ENT_COMPAT, 'UTF-8', FALSE ); ?>">
                         <button id="lead" class="button2">
-                            <i class="fa fa-whatsapp"></i>&nbsp; Sim! Quero conversar sobre a Gestão de Tráfego do meu Negócio!
+                            <i class="fa fa-whatsapp"></i>&nbsp; Sim! Quero colocar minha Empresa no Google Meu Negócio!
                         </button>
                     </a>
                 </div>

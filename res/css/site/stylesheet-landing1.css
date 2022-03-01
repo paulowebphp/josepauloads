@@ -139,11 +139,14 @@ font-family: 'TheHeartOfEverything';
 background: #ffffff66;
 text-shadow: #767676 0.1em 0.1em 0.2em;
 border: 1px solid #fff;
-*/
-border: none;
+
+
 box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.10), 0 0 16px 0 rgba(0, 0, 0, 0.06);
     -webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.10), 0 0 16px 0 rgba(0, 0, 0, 0.06);
     -moz-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.10), 0 0 16px 0 rgba(0, 0, 0, 0.06);
+*/
+box-shadow: #0f0ade 0 9px 30px -6px;
+border: none;
 }
 .box3 h3{color: #f1d600;font-family:'Lato';font-size: 1.5rem!important;}
 
@@ -278,9 +281,9 @@ text-shadow:1px 1px 1px #171f26,
 #section11 h4{color: #f2f2f2;}
 
 
-#section12{padding:5% 0;background:#010f2c;}
-#section12 h2{color: #f1d600;}
-#section12 h4{color:#f2f2f2;font-size:1.5rem;font-family:'LatoBlack';}
+#section12{padding:5% 0;background:#f2f2f2;}
+#section12 h2{color: #0f0ade;}
+#section12 h4{color:#171f26;font-size:1.5rem;font-family:'LatoBlack';}
 
 
 
@@ -309,11 +312,11 @@ text-shadow:1px 1px 1px #171f26,
 
 
 
-#section14{background:#f2f2f2;padding: 50px 15px 20px 15px;}
-#section14 h2{color:#0f0ade;}
-#section14 h3{color:#0f0ade;}
-#section14 h4{color: #171f26;}
-#section14 i{font-size:2rem;color:#0f0ade;}
+#section14{background:#0f0ade;padding: 50px 15px 20px 15px;}
+#section14 h2{color:#f2f2f2;}
+#section14 h3{color:#fff;}
+#section14 h4{color: #fff;}
+#section14 i{font-size:2rem;color:#fff;}
 
 
 
@@ -375,13 +378,13 @@ text-shadow:1px 1px 1px #171f26,
 
 
 
-#section19 {padding: 40px 15px 20px 15px;background: #f2f2f2;}
+#section19 {padding: 40px 15px 20px 15px;background: #0f0ade;}
 #section19 img{filter:brightness(95%);}
-#section19 h2{font-weight: 800; color: #0f0ade;}
+#section19 h2{font-weight: 800; color: #f2f2f2;}
 #section19 h2 small{font-size: 24px; font-weight: 200;}
-#section19 i{color: #0f0ade;font-weight: bolder;}
-#section19 li{color: #171f26;}
-#section19 h4{color: #171f26;font-size:1.5rem;}
+#section19 i{color: #fff;font-weight: bolder;}
+#section19 li{color: #fff;}
+#section19 h4{color: #fff;font-size:1.5rem;}
 
 
 

@@ -130,7 +130,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        Olá, meu nome é José Paulo, moro em Belo Horizonte-MG, sou <span class="color4">Programador,</span> <span class="color4">Gestor de Tráfego Pago</span> e trabalho dando consultoria sobre <u>tráfego pago e orgânico</u> em diversas plataformas.
+                        Olá, meu nome é José Paulo, moro em Belo Horizonte-MG, sou <span class="color4">Programador,</span> <span class="color4">Gestor de Tráfego</span> e trabalho dando consultoria sobre <u>tráfego pago e orgânico</u> de diversas plataformas.
                     </h4>
 
                 </div><!--gifts-section1-->
@@ -319,60 +319,6 @@
     </div><!--container-->
 
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -606,6 +552,64 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <section id="section18" class="site">
 
     <div class="container">
@@ -693,8 +697,6 @@
     </div><!--container-->
 
 </section>
-
-
 
 
 
@@ -858,9 +860,7 @@
 
 
 
-
-
-<section id="section24" class="site">
+<section id="section19" class="site">
 
     <div class="container">
 
@@ -1537,21 +1537,21 @@
 
                 <div class="bottom2">
                     <h4>
-                        Como seria se você pudesse <span class="color5"> resolver (ou entender) problemas cruciais</span> que podem estar acontecendo nas suas Campanhas?</span>
+                        Como seria se você pudesse <span class="color1"> resolver (ou entender) problemas cruciais</span> que podem estar acontecendo nas suas Campanhas?</span>
                     </h4>
                 </div>
 
 
                 <div class="bottom2">
                     <h4>
-                        E se você conseguisse <span class="color5">rapidamente</span> adquirir o conhecimento necessário pra fazer suas Campanhas converterem mais?
+                        E se você conseguisse <span class="color1">rapidamente</span> adquirir o conhecimento necessário pra fazer suas Empresa vender mais pela Internet?
                     </h4>
                 </div>
 
 
                 <div class="bottom2">
                     <h4>
-                        Como seria se você pudessse <u>Escalar</u> suas vendas <span class="color5">de forma segura?</span>
+                        Como seria se você pudessse <u>Escalar</u> suas vendas <span class="color1">de forma segura?</span>
                     </h4>
                 </div>
 
@@ -1659,7 +1659,7 @@
                 <div class="bottom2">
                     <a href="<?php echo htmlspecialchars( $link1, ENT_COMPAT, 'UTF-8', FALSE ); ?>">
                         <button id="lead" class="button2">
-                            <i class="fa fa-whatsapp"></i>&nbsp; Sim! Quero conversar sobre a Gestão de Tráfego do meu Negócio!
+                            <i class="fa fa-whatsapp"></i>&nbsp; Sim! Quero saber como funciona a Consultoria de Tráfego do meu Negócio!
                         </button>
                     </a>
                 </div>

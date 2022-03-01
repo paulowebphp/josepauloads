@@ -35,7 +35,7 @@
     <link rel="icon" type="image/png" href="/res/images/favicon/site/landing1/favicon.ico" />
     <?php }elseif( checkLandingUri('landing5') ){ ?>
     <link rel="stylesheet" type="text/css" href="/res/css/site/stylesheet0.css">
-    <link rel="stylesheet" type="text/css" href="/res/css/site/stylesheet-landing5.css">
+    <link rel="stylesheet" type="text/css" href="/res/css/site/stylesheet-landing1.css">
     <link rel="icon" type="image/png" href="/res/images/favicon/site/landing1/favicon.ico" />
     <?php }elseif( checkLandingUri('landing6') ){ ?>
     <link rel="stylesheet" type="text/css" href="/res/css/site/stylesheet0.css">

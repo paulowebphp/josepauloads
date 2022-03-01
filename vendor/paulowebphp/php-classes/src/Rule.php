@@ -30,7 +30,18 @@ class Rule extends Model
 
 	const URI_LANDING3 = 'gmn';
 	const URI_LANDING4 = 'ggl';
-	const URI_LANDING5 = 'keywords';
+	const URI_LANDING5 = 'consultor';
+
+	/*gestor trafego
+	consultor trafego
+	especialista google
+	consultor google
+	especialista google meu negócio
+	
+	
+	especialista seo*/
+
+	
 	const URI_LANDING6 = 'hashtags';
 
 
