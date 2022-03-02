@@ -18,7 +18,7 @@
                         
                     <h3>
                         <span class="color1">
-                            Gestor de
+                            Especialista em
                             Google Meu Negócio
                                                                 
                         </span>
