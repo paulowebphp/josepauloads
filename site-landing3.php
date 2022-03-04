@@ -18,7 +18,7 @@ use \Core\Model\Feature;
 
 
 
-$app->get( '/gmn', function()
+$app->get( '/googlemeunegocio', function()
 {
 	
 

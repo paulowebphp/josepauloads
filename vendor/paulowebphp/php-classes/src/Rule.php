@@ -28,7 +28,7 @@ class Rule extends Model
 	const URI_LANDING1 = 'gestor';
 	const URI_LANDING2 = 'consultoria';
 
-	const URI_LANDING3 = 'gmn';
+	const URI_LANDING3 = 'googlemeunegocio';
 	const URI_LANDING4 = 'consultorgoogle';
 	const URI_LANDING5 = 'consultor';
 
