@@ -21,14 +21,15 @@ use \Core\Model\Feature;
 
 
 
-$app->get( '/hashtags', function()
-{	
-
-
-
-    
+$app->get( '/googlemaps', function()
+{
 	
-	
+
+	//$link1 = 'https://wa.me/5531984050125?text=Olá,%20preciso%20de%20um%20Gestor%20de%20Tráfego%20e%20gostaria%20de%20marcar%20uma%20Call!';
+	$link1 = 'https://bit.ly/especialistagooglemaps';
+
+
+
 
 
 	$page = new PageLanding();
@@ -40,7 +41,7 @@ $app->get( '/hashtags', function()
 
 		[
 
-
+			'link1'=>$link1,
 			'error'=>Landing::getError()
 
 		]
@@ -48,8 +49,6 @@ $app->get( '/hashtags', function()
 	);//end setTpl
 
 });//END route
-
-
 
 
 
