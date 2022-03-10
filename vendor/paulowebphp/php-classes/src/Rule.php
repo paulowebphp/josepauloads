@@ -31,7 +31,7 @@ class Rule extends Model
 	const URI_LANDING3 = 'googlemeunegocio';
 	const URI_LANDING4 = 'consultorgoogle';
 	const URI_LANDING5 = 'consultor';
-	const URI_LANDING6 = 'googlemaps';
+	const URI_LANDING6 = 'gmn';
 
 	/*gestor trafego
 	consultor trafego
