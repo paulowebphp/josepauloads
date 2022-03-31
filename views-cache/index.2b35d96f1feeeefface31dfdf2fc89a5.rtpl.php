@@ -10,31 +10,14 @@
                 
                 <div class="bottom">
                     
-                    <h1>José Paulo Carvalho</h1>
+                    <h1>Coloque o seu Negócio no Google Maps</h1>
 
                 </div>
 
                 <div class="bottom0">
                         
                     <h3>
-                        <span class="color1">
-                            Especialista em
-                            Google Maps
-                                                                
-                        </span>
-                    </h3>
-                </div>
-
-                <div class="bottom2">
-                        
-                    <h3>
-                        <div class="media13">
-                            <img src="/res/images/br32.png" alt="Bandeira do Brasil">
-                        </div>
-
-                        <span class="color1">
-                            Atendo a Todo Brasil
-                        </span>
+                        E Receba Contatos Gratuitamente Todos os Dias!
                     </h3>
                 </div>
                 
@@ -70,128 +53,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section id="section19" class="site">
-
-    <div class="container">
-
-
-        <div class="row centralizer">
-
-            <div class="col-md-10 col-12 text-center">
-
-                
-
-                <h2>COLOQUE A SUA EMPRESA NO GOOGLE MAPS
-                    <br>
-                    <small>
-                        E Receba Visualizações Gratuitas Todos os Dias!
-                    </small>
-                </h2>
-                 
-            
-            </div>
-          
-
-            
-            
-
-        </div>
-        
-
-</section>
-
-
-
-
-
-
-
-
-
-
-
-<section id="section8" class="site">
-
-    <div class="container">
-
-
-        <div class="row">
-
-            <div class="col-md-3 col-12 vertical-centralizer bottom3">
-
-                
-
-
-                <div class="media6">
-                    
-                    <img src="/res/images/avatar.jpg" alt="Instrutor do Curso">
-                </div>  
-                
-
-            </div>
-          
-
-            <div class="col-md-9 col-12">
-
-                <div class="bottom2">
-                    <h2>QUEM SOU EU</h2>
-                </div>
-
-
-                <div class="bottom2">
-
-                    <h4>
-                        Olá, meu nome é José Paulo, moro em Belo Horizonte-MG, sou <span class="color1">Programador,</span> <span class="color1">Gestor de Tráfego</span> e trabalho colocando empresas pra aparecer no <span class="color1">Google Maps.</span>
-                    </h4>
-
-                </div><!--gifts-section1-->
-
-
-                <div class="bottom2">
-
-                    <h4>
-                        Eu posso ajudar você a <span class="color1">colocar sua Empresa no Google Maps</span> e receber todos os dias, <u>sem nenhum custo,</u> visualizações de pessoas que estão interessadas nos seus serviços.
-                    </h4>
-
-                </div><!--gifts-section1-->
-
-
-                <div class="bottom2">
-
-                    <h4>
-                        Acredite! Neste <span class="color1">exato momento</span> tem alguém na Internet <u>procurando</u> pelos serviços que <u>VOCÊ</u> pode oferecer.
-                    </h4>
-
-                </div><!--gifts-section1-->
-
-                         
-
-            </div>
-            
-
-        </div>
-        
-
-</section>
 
 
 
@@ -298,21 +159,21 @@
             <div class="col-md-7 col-12">
 
                 <div class="bottom2">
-                    <h2>O QUE É O GOOGLE MAPS?</h2>
+                    <h2>O PODER DO GOOGLE MAPS</h2>
                 </div>
 
                 
                 <div class="bottom2">
 
                     <h4>
-                        Você certamente já viu essas informações em alguma parte do seu Navegador quando você <span class="color1">faz uma pesquisa,</span> pois é, esse é o <span class="color1">Google Maps.</span>
+                        Quando alguém pesquisa sobre algum produto ou serviço no Google, <span class="color1">mapas e informações</span> de diversas empresas aparecem espalhadas ao redor da tela. Pois é, esse é o <span class="color1">Google Maps.</span>
                     </h4>
 
                 </div>
 
                 <div class="bottom2">
                     <h4>
-                        Existe uma <span class="color1">Estratégia</span> e uma <span class="color1">Técnica</span> para colocar essas informações no <u>Google Maps</u> e receber visualizações todos os dias de pessoas interessadas em seus <span class="color1">produtos e serviços.</span>
+                        Existe uma <span class="color1">Estratégia</span> e <span class="color1">Técnicas Especializadas</span> para colocar essas informações no <u>Google Maps</u> e realmente receber visualizações todos os dias de pessoas interessadas em seus <span class="color1">produtos e serviços.</span>
                     </h4>
 
                     
@@ -403,6 +264,78 @@
 
 
 
+<section id="section8" class="site">
+
+    <div class="container">
+
+
+        <div class="row">
+
+            <div class="col-md-3 col-12 vertical-centralizer bottom3">
+
+                
+
+
+                <div class="media6">
+                    
+                    <img src="/res/images/avatar.jpg" alt="Instrutor do Curso">
+                </div>  
+                
+
+            </div>
+          
+
+            <div class="col-md-9 col-12">
+
+                <div class="bottom2">
+                    <h2>JOSÉ PAULO DE CARVALHO</h2>
+                    <h3>
+                        <div class="media13">
+                            <i class="fa fa-chevron-right"></i><i class="fa fa-chevron-right"></i>
+                        </div>
+
+                        <span class="color1">
+                            Especialista em Google Maps
+                        </span>
+                    </h3>
+                </div>
+
+
+                <div class="bottom2">
+
+                    <h4>
+                        Olá, meu nome é José Paulo, moro em Belo Horizonte-MG, sou <span class="color1">Programador,</span> <span class="color1">Gestor de Tráfego</span> e trabalho colocando empresas de todo Brasil pra aparecer no <span class="color1">Google Maps.</span>
+                    </h4>
+
+                </div><!--gifts-section1-->
+
+
+                <div class="bottom2">
+
+                    <h4>
+                        Eu já coloquei <u>mais de 20 empresas</u> no Google e posso ajudar a <span class="color1">colocar a sua</span> de forma a receber todos os dias, <u>sem nenhum custo,</u> visualizações de pessoas que estão interessadas nos seus produtos ou serviços.
+                    </h4>
+
+                </div><!--gifts-section1-->
+
+
+                <div class="bottom2">
+
+                    <h4>
+                        Acredite! Neste <span class="color1">exato momento</span> tem alguém na Internet <u>procurando</u> pelo que <u>VOCÊ</u> pode oferecer.
+                    </h4>
+
+                </div><!--gifts-section1-->
+
+                         
+
+            </div>
+            
+
+        </div>
+        
+
+</section>
 
 
 
@@ -655,6 +588,89 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <section id="section18" class="site">
 
     <div class="container">
@@ -680,7 +696,7 @@
             <div class="col-md-6 col-12">
 
                 <div class="bottom2">
-                    <h2>COMO FUNCIONA A GESTÃO DE GOGLE MAPS?</h2>
+                    <h2>COMO FUNCIONA O SERVIÇO?</h2>
                 </div>
                 
             
@@ -688,14 +704,14 @@
 
                 <div class="bottom2">
                     <h4>
-                        O Gestor recebe <u>permissão</u> para <span class="color1">para usar sua conta no Google Mapss.</span>
+                        O especialista/gestor recebe <u>permissão</u> para <span class="color1">para usar sua conta do Google Maps.</span>
                     </h4>
                 </div>
 
 
                 <div class="bottom2">
                     <h4>
-                        Lá dentro ele configura todas as informações para sua Empresa aparecer no Google e ficar <span class="color1">bem posicionada.</span>
+                        Dentro da sua conta, ele <span class="color1">configura informações, insere fotos, entre outras ações,</span> para que sua Empresa apareça no Google Maps e fique <span class="color1">bem posicionada.</span>
                     </h4>
                 </div>
 
@@ -705,10 +721,12 @@
                 <div class="bottom2">
 
                     <h4>
-                        O trabalho é <u>100% Online,</u> não necessitando da presença física das partes envolvidas, e por isso, <span class="color1">atendemos a pessoas de Todo o Brasil.</span>
+                        O trabalho é <u>100% Online,</u> não necessitando da presença física das partes envolvidas, e por isso, <span class="color1">atendo a negócios de Todo o Brasil.</span>
                     </h4> 
 
                 </div>
+
+
 
 
 
@@ -811,7 +829,7 @@
                         <h3>Custo Zero</h3>
                     </div>
 
-                    <h4>Você não paga nada para aparecer no Google Maps, e pode aparecer para dezenas de pessoas todos os dias, de forma gratuita</h4>
+                    <h4>Você não paga nada para aparecer no Google Maps, e pode receber visualizações de pessoas todos os dias, de forma gratuita</h4>
 
                 </div>
 

@@ -67,9 +67,4 @@
     <?php } ?>
 
 
-    <header>
-
-        <header style="display:none!important;"></header>
-
-
-    </header>
+    <header style="display:none!important;"></header>
