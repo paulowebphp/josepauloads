@@ -172,6 +172,13 @@
                 </div>
 
 
+                <div class="bottom2">
+                    <h4>
+                        É possível receber <span class="color1">visualizações, chamadas telefônicas, criação de Rotas,</span> entre outros.
+                    </h4>
+                </div>
+
+
                 
 
                 <div class="bottom2">
@@ -256,70 +263,6 @@
 
 
 
-<section id="section19" class="site">
-
-    <div class="container">
-
-
-        <div class="row bottom1 centralizer">
-
-            <div class="col-md-10 col-12 text-center">
-
-                
-
-                <h2>
-                    NO GOOGLE MAPS É POSSÍVEL
-                    
-                </h2>
-
-                
-                 
-            
-            </div>
-          
-
-            
-            
-
-        </div>
-
-
-
-        <div class="row align1 centralizer">
-
-
-            <div class="col-md-4 col-12 bottom1 inline1 text-center">
-
-                <i class="fa fa-arrow-right"></i> <span class="iconlist">Clientes Traçarem Rotas no Maps</span>
-           
-                 </div>
-
-
-            <div class="col-md-4 col-12 bottom1 text-center">
-
-                 <i class="fa fa-user"></i> <span class="iconlist">Receber Visualizações</span>
-            
-            </div>
-
-            <div class="col-md-4 col-12 bottom1 inline1 text-center">
-
-                <i class="fa fa-phone"></i> <span class="iconlist">Receber Chamadas Telefônicas</span>
-           
-           </div>
-
-
-           
-          
-
-            
-            
-
-        </div>
-        
-
-</section>
-
-
 
 
 
@@ -353,7 +296,7 @@
 
             <div class="col-md-9 col-12">
 
-                <div class="bottom2">
+                <div class="bottom3">
                     <h2>JOSÉ PAULO CARVALHO</h2>
                     
                         <h3>
