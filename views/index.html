@@ -27,7 +27,7 @@
                     </h3>
                 </div>
 
-                <div class="bottom2">
+                <div class="bottom0">
                         
                     <h3>
                         <div class="media13">
