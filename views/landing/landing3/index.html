@@ -10,7 +10,7 @@
                 
                 <div class="bottom">
                     
-                    <h1>Coloque o seu Negócio no Google Maps</h1>
+                    <h1>COLOQUE O SEU NEGÓCIO NO GOOGLE MAPS</h1>
 
                 </div>
 
@@ -171,6 +171,25 @@
 
                 </div>
 
+                
+                <div class="bottom2">
+                    <h4>
+                        Para fazer sua empresa aparecer dessa forma é preciso <span class="color1">cadastrar ela no Google.</span>
+                    </h4>
+                </div>
+
+
+                <div class="bottom2">
+                    <h4>
+                        <u>
+                            Mas não basta só cadastrar...
+                        </u>
+                    </h4>
+                </div>
+
+
+
+
                 <div class="bottom2">
                     <h4>
                         Existe uma <span class="color1">Estratégia</span> e <span class="color1">Técnicas Especializadas</span> para colocar essas informações no <u>Google Maps</u> e realmente receber visualizações todos os dias de pessoas interessadas em seus <span class="color1">produtos e serviços.</span>
@@ -179,14 +198,10 @@
                     
                 </div>
 
-                <div class="bottom5">
-                    <h4>
-                        E é isso que um <span class="color1">Especialista em Google Maps</span> faz pra você.
-                    </h4>
-                </div>
 
+                
 
-
+                
 
 
 
@@ -251,7 +266,37 @@
 
 
 
+<section id="section19" class="site">
 
+    <div class="container">
+
+
+        <div class="row centralizer">
+
+            <div class="col-md-10 col-12 text-center">
+
+                
+
+                <h2>
+                    COMO CADASTRAR SUA EMPRESA NO MAPS DE FORMA EFICIENTE?
+                    
+                </h2>
+
+                <h3>
+                    É isso que um <u>Especialista em Google Maps</u> pode fazer pra você
+                </h3>
+                 
+            
+            </div>
+          
+
+            
+            
+
+        </div>
+        
+
+</section>
 
 
 
@@ -288,23 +333,25 @@
             <div class="col-md-9 col-12">
 
                 <div class="bottom2">
-                    <h2>JOSÉ PAULO DE CARVALHO</h2>
-                    <h3>
+                    <h2>QUEM SOU EU</h2>
+                    <!--
+                        <h3>
                         <div class="media13">
                             <i class="fa fa-chevron-right"></i><i class="fa fa-chevron-right"></i>
                         </div>
 
                         <span class="color1">
-                            Especialista em Google Maps
+                            
                         </span>
                     </h3>
+                    -->
                 </div>
 
 
                 <div class="bottom2">
 
                     <h4>
-                        Olá, meu nome é José Paulo, moro em Belo Horizonte-MG, sou <span class="color1">Programador,</span> <span class="color1">Gestor de Tráfego</span> e trabalho colocando empresas de todo Brasil pra aparecer no <span class="color1">Google Maps.</span>
+                        Olá, meu nome é José Paulo Carvalho, moro em Belo Horizonte-MG, sou <span class="color1">Programador,</span> <span class="color1">Especialista em Google Maps</span> e trabalho colocando empresas de todo Brasil pra aparecer no <span class="color1"> Maps.</span>
                     </h4>
 
                 </div><!--gifts-section1-->
