@@ -21,8 +21,7 @@
                             Gestor de Tráfego 
                                 &nbsp;<i class="fa fa-circle"></i>&nbsp;
                             Google Ads
-                                &nbsp;<i class="fa fa-circle"></i>&nbsp;
-                            Facebook Ads
+                                
                                 
                         </span>
                     </h3>
@@ -134,7 +133,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        Olá, meu nome é José Paulo, moro em Belo Horizonte-MG, sou <span class="color1">Programador,</span> <span class="color1">Gestor de Tráfego</span> e trabalho criando Campanhas no <span class="color1">Google Ads</span> e <span class="color1">Facebook Ads.</span>
+                        Olá, meu nome é José Paulo, moro em Belo Horizonte-MG, sou <span class="color1">Programador,</span> <span class="color1">Gestor de Tráfego</span> e trabalho criando Campanhas no <span class="color1">Google Ads.</span>
                     </h4>
 
                 </div><!--gifts-section1-->
@@ -143,7 +142,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        Eu posso ajudar você a <span class="color1">Alavancar</span> o seu Negócio fazendo a <span class="color1">Gestão do Tráfego</span> dos seus Anúncios Online.
+                        Eu já gerenciei <span class="color1">mais de 40K</span> dos meus clientes, com <span class="color1">ROI entre 1 e 4</span> e posso ajudar você a <span class="color1">Alavancar</span> o seu Negócio fazendo a <span class="color1">Gestão do Tráfego</span> dos seus Anúncios Online.
                     </h4>
 
                 </div><!--gifts-section1-->
@@ -152,7 +151,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        Acredite! Neste <span class="color1">exato momento</span> tem alguém na Internet <u>procurando</u> pelos serviços que <u>VOCÊ</u> pode oferecer.
+                        Acredite! Neste <span class="color1">exato momento</span> tem alguém na Internet <u>procurando</u> pelos produtos ou serviços que <u>VOCÊ</u> pode oferecer.
                     </h4>
 
                 </div><!--gifts-section1-->
@@ -843,7 +842,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        O trabalho é <u>100% Online,</u> não necessitando da presença física das partes envolvidas, e por isso, <span class="color1">atendemos a pessoas de Todo o Brasil.</span>
+                        O trabalho é <u>100% Online,</u> não necessitando da presença física das partes envolvidas, e por isso, <span class="color1">atendo a negócios de Todo o Brasil.</span>
                     </h4> 
 
                 </div>
