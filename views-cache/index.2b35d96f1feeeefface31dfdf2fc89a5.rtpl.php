@@ -171,33 +171,23 @@
 
                 </div>
 
+
                 
-                <div class="bottom2">
-                    <h4>
-                        Para fazer sua empresa aparecer dessa forma é preciso <span class="color1">cadastrar ela no Google.</span>
-                    </h4>
-                </div>
-
 
                 <div class="bottom2">
                     <h4>
-                        <u>
-                            Mas não basta só cadastrar...
-                        </u>
-                    </h4>
-                </div>
-
-
-
-
-                <div class="bottom2">
-                    <h4>
-                        Existe uma <span class="color1">Estratégia</span> e <span class="color1">Técnicas Especializadas</span> para colocar essas informações no <u>Google Maps</u> e realmente receber visualizações todos os dias de pessoas interessadas em seus <span class="color1">produtos e serviços.</span>
+                        Existe uma <span class="color1">Estratégia</span> e <span class="color1">Técnicas Especializadas</span> para cadastrar essas informações no <u>Google Maps</u> e realmente receber visualizações todos os dias de pessoas interessadas em seus <span class="color1">produtos e serviços.</span>
                     </h4>
 
                     
                 </div>
 
+
+                <div class="bottom5">
+                    <h4>
+                        E é isso que um <span class="color1">Especialista em Google Maps</span> faz pra você.
+                    </h4>
+                </div>
 
                 
 
@@ -271,23 +261,54 @@
     <div class="container">
 
 
-        <div class="row centralizer">
+        <div class="row bottom1 centralizer">
 
             <div class="col-md-10 col-12 text-center">
 
                 
 
                 <h2>
-                    COMO CADASTRAR SUA EMPRESA NO MAPS DE FORMA EFICIENTE?
+                    NO GOOGLE MAPS É POSSÍVEL
                     
                 </h2>
 
-                <h3>
-                    É isso que um <u>Especialista em Google Maps</u> pode fazer pra você
-                </h3>
+                
                  
             
             </div>
+          
+
+            
+            
+
+        </div>
+
+
+
+        <div class="row align1 centralizer">
+
+
+            <div class="col-md-4 col-12 bottom1 inline1 text-center">
+
+                <i class="fa fa-arrow-right"></i> <span class="iconlist">Clientes Traçarem Rotas no Maps</span>
+           
+                 </div>
+
+
+            <div class="col-md-4 col-12 bottom1 text-center">
+
+                 <i class="fa fa-user"></i> <span class="iconlist">Receber Visualizações</span>
+            
+            </div>
+
+            <div class="col-md-4 col-12 bottom1 inline1 text-center">
+
+                <i class="fa fa-phone"></i> <span class="iconlist">Receber Chamadas Telefônicas</span>
+           
+           </div>
+
+
+           
           
 
             
@@ -333,18 +354,18 @@
             <div class="col-md-9 col-12">
 
                 <div class="bottom2">
-                    <h2>QUEM SOU EU</h2>
-                    <!--
+                    <h2>JOSÉ PAULO CARVALHO</h2>
+                    
                         <h3>
                         <div class="media13">
                             <i class="fa fa-chevron-right"></i><i class="fa fa-chevron-right"></i>
                         </div>
 
                         <span class="color1">
-                            
+                            Especialista em Google Ads
                         </span>
                     </h3>
-                    -->
+                    
                 </div>
 
 
@@ -761,6 +782,8 @@
                         Dentro da sua conta, ele <span class="color1">configura informações, insere fotos, entre outras ações,</span> para que sua Empresa apareça no Google Maps e fique <span class="color1">bem posicionada.</span>
                     </h4>
                 </div>
+
+
 
 
                             
