@@ -24,9 +24,9 @@ $app->get( '/googlemeunegocio', function()
 
 	//$link1 = 'https://wa.me/5531984050125?text=Olá,%20preciso%20de%20um%20Gestor%20de%20Tráfego%20e%20gostaria%20de%20marcar%20uma%20Call!';
 	//$link1 = 'https://bit.ly/gestorgooglemeunegocio';
-	$link1 = 'https://bit.ly/especialistagooglemaps';
+	//$link1 = 'https://bit.ly/especialistagooglemaps';
 
-	
+	$link1 = Rule::URL_BTN_LANDING3;
 
 
 

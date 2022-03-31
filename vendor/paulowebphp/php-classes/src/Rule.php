@@ -42,7 +42,8 @@ class Rule extends Model
 	
 	especialista seo*/
 
-	
+	const URL_BTN_LANDING1 = 'https://bit.ly/gestordetrafegoinfo';
+	const URL_BTN_LANDING3 = 'https://bit.ly/especialistagooglemaps';
 
 
 

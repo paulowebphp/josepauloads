@@ -22,6 +22,29 @@ function checkIsProduction()
 
 
 
+function getUrlBtnLanding( $url_btn_landing )
+{
+
+	switch ($url_btn_landing) {
+		case '1':
+			# code...
+			return Rule::URL_BTN_LANDING1;
+			break;
+
+		case '3':
+			# code...
+			return Rule::URL_BTN_LANDING3;
+			break;
+		
+		default:
+			# code...
+			return '#';
+			break;
+	}
+	
+
+}//end function
+
 
 
 function formatDate( $date )
