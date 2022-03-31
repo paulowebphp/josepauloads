@@ -136,93 +136,7 @@
 
 
 
-<section id="section11" class="site">
 
-    <div class="container">
-        
-        
-
-        <div class="row">
-
-            <div class="col-md-5 col-12 vertical-centralizer bottom2">
-
-                <div class="media10">
-                
-                    <img src="/res/images/gmn/gmn01.jpg" alt="Google Maps">
-                </div>
-
-                
-
-            </div>
-          
-
-            <div class="col-md-7 col-12">
-
-                <div class="bottom2">
-                    <h2>O PODER DO GOOGLE MAPS</h2>
-                </div>
-
-                
-                <div class="bottom2">
-
-                    <h4>
-                        Quando alguém pesquisa sobre algum produto ou serviço no Google, <span class="color1">mapas e informações</span> de diversas empresas aparecem espalhadas ao redor da tela. Pois é, esse é o <span class="color1">Google Maps.</span>
-                    </h4>
-
-                </div>
-
-
-                <div class="bottom2">
-                    <h4>
-                        É possível receber <span class="color1">visualizações, chamadas telefônicas, criação de Rotas,</span> entre outros.
-                    </h4>
-                </div>
-
-
-                
-
-                <div class="bottom2">
-                    <h4>
-                        Existe uma <span class="color1">Estratégia</span> e <span class="color1">Técnicas Especializadas</span> para cadastrar essas informações no <u>Google Maps</u> e realmente receber visualizações todos os dias de pessoas interessadas em seus <span class="color1">produtos e serviços.</span>
-                    </h4>
-
-                    
-                </div>
-
-
-                <div class="bottom5">
-                    <h4>
-                        E é isso que um <span class="color1">Especialista em Google Maps</span> faz pra você.
-                    </h4>
-                </div>
-
-                
-
-                
-
-
-
-
-
-
-
-            </div>
-            
-
-        </div>
-
-
-
-
-
-
-
-
-
-
-    </div><!--container-->
-
-</section>
 
 
 
@@ -370,6 +284,121 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section17" class="site">
+
+    <div class="container">
+        
+        
+
+        <div class="row">
+
+            <div class="col-md-5 col-12 vertical-centralizer bottom2">
+
+                <div class="media10">
+                
+                    <img src="/res/images/gmn/gmn01.jpg" alt="Google Maps">
+                </div>
+
+                
+
+            </div>
+          
+
+            <div class="col-md-7 col-12">
+
+                <div class="bottom2">
+                    <h2>O PODER DO GOOGLE MAPS</h2>
+                </div>
+
+                
+                <div class="bottom2">
+
+                    <h4>
+                        Você certamente já viu essas informações da imagem ao lado em alguma parte do seu Navegador quando você <span class="color1">faz uma pesquisa,</span> pois é, esse é o <span class="color1">Google Maps.</span>
+                    </h4>
+
+                </div>
+
+
+                <div class="bottom2">
+                    <h4>
+                        É possível receber <span class="color1">visualizações, chamadas telefônicas e criação de Rotas</span> de clientes que navegam no Google.
+                    </h4>
+                </div>
+
+
+                
+
+                <div class="bottom2">
+                    <h4>
+                        Mas existe uma <span class="color1">Estratégia</span> e <span class="color1">Técnicas Especializadas</span> para cadastrar essas informações no <u>Google Maps</u> e realmente receber visualizações todos os dias de pessoas interessadas em seus <span class="color1">produtos e serviços.</span>
+                    </h4>
+
+                    
+                </div>
+
+
+                <div class="bottom5">
+                    <h4>
+                        E é isso que um <span class="color1">Especialista em Google Maps</span> faz pra você.
+                    </h4>
+                </div>
+
+                
+
+                
+
+
+
+
+
+
+
+            </div>
+            
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+    </div><!--container-->
+
+</section>
 
 
 
