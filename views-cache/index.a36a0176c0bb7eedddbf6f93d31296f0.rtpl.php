@@ -1856,8 +1856,8 @@
                 </div>
 
                 <div class="bottom2">
-                    <a href="<?php echo htmlspecialchars( $link1, ENT_COMPAT, 'UTF-8', FALSE ); ?>">
-                        <button id="lead" class="button2">
+                    <a id="lead" href="<?php echo htmlspecialchars( $link1, ENT_COMPAT, 'UTF-8', FALSE ); ?>">
+                        <button class="button2">
                             <i class="fa fa-whatsapp"></i>&nbsp; Sim! Quero conversar sobre a Gestão de Tráfego do meu Negócio!
                         </button>
                     </a>
