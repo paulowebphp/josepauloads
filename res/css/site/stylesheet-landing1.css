@@ -425,6 +425,42 @@ background-position-x:right;
 
 
 
+
+
+
+
+
+
+#section21{
+background:linear-gradient(rgba(226,226,226, 0.50),rgba(226,226,226, 0.50)),url("/res/images/banner/banner16.jpg") no-repeat;
+background-size:cover;
+padding:5% 0;
+background-position-x:right;
+padding: 50px 150px 20px 150px;
+}
+#section21 h2{color:#0f0ade;}
+#section21 h3{color:#0f0ade;}
+#section21 h4{color: #171f26;}
+#section21 i{font-size:2rem;color:#0f0ade;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #section24 {padding: 5% 10%;background: #010f2c;}
 #section24 img{filter:brightness(95%);}
 #section24 h2{color: #f1d600;}

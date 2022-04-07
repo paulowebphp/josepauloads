@@ -318,101 +318,6 @@
 
 
 
-<section id="section17" class="site">
-
-    <div class="container">
-        
-        
-
-        <div class="row">
-
-            <div class="col-md-5 col-12 vertical-centralizer bottom2">
-
-                <div class="media10">
-                
-                    <img src="/res/images/gmn/gmn01.jpg" alt="Google Maps">
-                </div>
-
-                
-
-            </div>
-          
-
-            <div class="col-md-7 col-12">
-
-                <div class="bottom3">
-                    <h2>COLOQUE A SUA EMPRESA NO GOOGLE MAPS</h2>
-                    
-                                        
-                </div>
-
-                
-                <div class="bottom2">
-
-                    <h4>
-                        Você certamente já viu essas informações da imagem ao lado em alguma parte do seu Navegador quando você <span class="color1">faz uma pesquisa,</span> pois é, esse é o <span class="color1">Google Maps.</span>
-                    </h4>
-
-                </div>
-
-
-                <div class="bottom2">
-                    <h4>
-                        É possível receber <span class="color1">visualizações, chamadas telefônicas e criação de Rotas</span> de clientes que navegam no Google.
-                    </h4>
-                </div>
-
-
-                
-
-                <div class="bottom2">
-                    <h4>
-                        Mas existe uma <span class="color1">Estratégia</span> e <span class="color1">Técnicas Especializadas</span> para cadastrar essas informações no <u>Google Maps</u> e realmente receber visualizações todos os dias de pessoas interessadas em seus <span class="color1">produtos e serviços.</span>
-                    </h4>
-
-                    
-                </div>
-
-
-                <div class="bottom5">
-                    <h4>
-                        E é isso que um <span class="color1">Especialista em Google Maps</span> faz pra você.
-                    </h4>
-                </div>
-
-                
-
-                
-
-
-
-
-
-
-
-            </div>
-            
-
-        </div>
-
-
-
-
-
-
-
-
-
-
-    </div><!--container-->
-
-</section>
-
-
-
-
-
-
 
 
 
@@ -624,6 +529,360 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section17" class="site">
+
+    <div class="container">
+        
+        
+
+        <div class="row">
+
+            <div class="col-md-5 col-12 vertical-centralizer bottom2">
+
+                <div class="media10">
+                
+                    <img src="/res/images/gmn/gmn01.jpg" alt="Google Maps">
+                </div>
+
+                
+
+            </div>
+          
+
+            <div class="col-md-7 col-12">
+
+                <div class="bottom3">
+                    <h2>COLOQUE A SUA EMPRESA NO GOOGLE MAPS</h2>
+                    
+                                        
+                </div>
+
+                
+                <div class="bottom2">
+
+                    <h4>
+                        Você certamente já viu essas informações da imagem ao lado em alguma parte do seu Navegador quando você <span class="color1">faz uma pesquisa,</span> pois é, esse é o <span class="color1">Google Maps.</span>
+                    </h4>
+
+                </div>
+
+
+                <div class="bottom2">
+                    <h4>
+                        É possível receber <span class="color1">visualizações, chamadas telefônicas e criação de Rotas</span> de clientes que navegam no Google.
+                    </h4>
+                </div>
+
+
+                
+
+                <div class="bottom2">
+                    <h4>
+                        Mas existe uma <span class="color1">Estratégia</span> e <span class="color1">Técnicas Especializadas</span> para cadastrar essas informações no <u>Google Maps</u> e realmente receber visualizações todos os dias de pessoas interessadas em seus <span class="color1">produtos e serviços.</span>
+                    </h4>
+
+                    
+                </div>
+
+
+                <div class="bottom5">
+                    <h4>
+                        E é isso que um <span class="color1">Especialista em Google Maps</span> faz pra você.
+                    </h4>
+                </div>
+
+                
+
+                
+
+
+
+
+
+
+
+            </div>
+            
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+    </div><!--container-->
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section21" class="site">
+
+    <div class="container">
+        
+        <div class="row centralizer">
+     
+            <div class="col-md-6 text-center">
+                
+                <div class="bottom2">
+                    <h2>
+                        VANTAGENS DE CADASTRAR NO GOOGLE MAPS
+                    </h2>
+                </div>
+                
+                               
+                
+
+            </div><!--col-->
+            
+        </div><!--row-->
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        <div class="row align1 centralizer">
+
+
+
+            <div class="col-md-4 col-12 text-center centralizer">
+    
+                <div class="box4">
+
+                    <div class="bottom2">
+                        <i class="fa fa-eye"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>Visualizações Diárias</h3>
+                    </div>
+
+                    <h4>As informações da sua empresa vão aparecer, quando o cliente fizer uma busca no Google</h4>
+
+                </div>
+
+            </div>
+
+
+
+
+
+
+
+            <div class="col-md-4 col-12 text-center centralizer">
+    
+                <div class="box4">
+
+                    <div class="bottom2">
+                        <i class="fa fa-phone"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>Chamadas Telefônicas</h3>
+                    </div>
+
+                    <h4>Seus clientes vão ter a opção de fazer uma chamada telefônica pro número do seu Negócio</h4>
+
+                </div>
+
+            </div>
+
+
+
+
+
+            <div class="col-md-4 col-12 text-center centralizer">
+    
+                <div class="box4">
+
+                    <div class="bottom2">
+                        <i class="fa fa-car"></i>
+                    </div>
+
+
+                    <div class="bottom1">
+                        <h3>Rotas Até Você</h3>
+                    </div>
+
+                    <h4>Seus clientes vão poder criar Rotas no Maps que levem até o seu Negócio</h4>
+
+                </div>
+
+            </div>
+
+
+
+
+            
+
+            
+
+
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div><!--container-->
+
+</section>
 
 
 
