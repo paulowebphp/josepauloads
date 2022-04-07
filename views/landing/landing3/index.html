@@ -592,14 +592,7 @@
                 </div>
 
 
-                <div class="bottom2">
-                    <h4>
-                        É possível receber <span class="color1">visualizações, chamadas telefônicas e criação de Rotas</span> de clientes que navegam no Google.
-                    </h4>
-                </div>
-
-
-                
+                               
 
                 <div class="bottom2">
                     <h4>
@@ -1247,7 +1240,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        Alguns resultados recentes
+                        Veja alguns Resultados recentes meus
                     </h4>
 
                 </div><!--gifts-section1-->
