@@ -244,7 +244,7 @@
                 <div class="bottom2">
 
                     <h4>
-                        Eu já coloquei <u>mais de 30 empresas</u> no Maps e posso ajudar a <span class="color1">colocar a sua</span> de forma a receber todos os dias, <u>sem nenhum custo,</u> visualizações de pessoas que estão interessadas nos seus produtos ou serviços.
+                        Eu já coloquei <u>mais de 30 empresas</u> no Maps e posso ajudar a <span class="color1">colocar a sua</span> de forma a receber, diariamente, <span class="color1">visualizações e contatos</span> de clientes que estão interessados nos seus produtos ou serviços.
                     </h4>
 
                 </div><!--gifts-section1-->
@@ -577,7 +577,7 @@
             <div class="col-md-7 col-12">
 
                 <div class="bottom3">
-                    <h2>COLOQUE A SUA EMPRESA NO GOOGLE MAPS</h2>
+                    <h2>O PODER DO GOOGLE MAPS</h2>
                     
                                         
                 </div>
@@ -586,33 +586,30 @@
                 <div class="bottom2">
 
                     <h4>
-                        Você certamente já viu essas informações da imagem ao lado em alguma parte do seu Navegador quando você <span class="color1">faz uma pesquisa,</span> pois é, esse é o <span class="color1">Google Maps.</span>
+                        Você certamente já viu essas informações da imagem no seu Navegador quando você <span class="color1">faz alguma pesquisa,</span> pois é, esse é o <span class="color1">Google Maps.</span>
                     </h4>
 
                 </div>
 
-
-                               
 
                 <div class="bottom2">
                     <h4>
-                        Mas existe uma <span class="color1">Estratégia</span> e <span class="color1">Técnicas Especializadas</span> para cadastrar essas informações no <u>Google Maps</u> e realmente receber visualizações todos os dias de pessoas interessadas em seus <span class="color1">produtos e serviços.</span>
+                        É possível receber <span class="color1">visualizações, chamadas telefônicas e criação de Rotas</span> de clientes que navegam no Google. E o melhor, de forma <span class="color1">totalmente Gratuita!</span>
                     </h4>
-
-                    
                 </div>
 
+               
 
-                <div class="bottom5">
+
+                <div class="bottom2">
                     <h4>
-                        E é isso que um <span class="color1">Especialista em Google Maps</span> faz pra você.
+                        Atualmente, calcula-se que <u>milhões de pessoas</u> acessem informações de empresas que estão no Google Maps, movimentando uma enorme quantidade de recursos <span class="color1">Locais</span> e <span class="color1">Nacionais.</span>
                     </h4>
                 </div>
 
-                
 
-                
 
+               
 
 
 
@@ -740,6 +737,65 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <section id="section21" class="site">
 
     <div class="container">
@@ -750,7 +806,7 @@
                 
                 <div class="bottom2">
                     <h2>
-                        VANTAGENS DE CADASTRAR NO GOOGLE MAPS
+                        VANTAGENS DE ESTAR NO GOOGLE MAPS
                     </h2>
                 </div>
                 
@@ -996,37 +1052,56 @@
             <div class="col-md-6 col-12">
 
                 <div class="bottom2">
-                    <h2>COMO FUNCIONA O SERVIÇO?</h2>
+                    <h2>COLOQUE A SUA EMPRESA NO GOOGLE MAPS</h2>
                 </div>
                 
             
 
 
+
+                <div class="bottom2">
+
+                    <h4>
+                        Estima-se que uma empresa aparecer no Google Maps seja atualmente um dos fatores <span class="color1">mais influentes</span> para um cliente tomar a decisão de entrar em contato com uma Empresa.
+                    </h4>
+
+                </div>
+
+
+                <div class="bottom2">
+
+                    <h4>
+                        Para fazer o seu Negócio aparecer no Google é um processo relativamente rápido, porém, se feito "de qualquer jeito", a empresa <span class="color1">pode não aparecer</span> para as melhores pesquisas.
+                    </h4>
+
+                </div>
+
+
+                               
+
                 <div class="bottom2">
                     <h4>
-                        O especialista/gestor recebe <u>permissão</u> para <span class="color1">para usar sua conta do Google Maps.</span>
+                        Existe uma <span class="color1">Estratégia</span> e uma <span class="color1">Técnica</span> para fazer o cadastro no <u>Google Maps</u> e receber visualizações e contatos de pessoas que estão realmente interessadas em seus <span class="color1">produtos e serviços.</span>
+                    </h4>
+
+                    
+                </div>
+
+
+                <div class="bottom5">
+                    <h4>
+                        E é isso que um <span class="color1">Especialista em Google Maps</span> faz pra você.
                     </h4>
                 </div>
 
 
-                <div class="bottom2">
-                    <h4>
-                        Dentro da sua conta, ele <span class="color1">configura informações, insere fotos, entre outras ações,</span> para que sua Empresa apareça no Google Maps e fique <span class="color1">bem posicionada.</span>
-                    </h4>
-                </div>
 
 
 
 
-                            
 
-                <div class="bottom2">
 
-                    <h4>
-                        O trabalho é <u>100% Online,</u> não necessitando da presença física das partes envolvidas, e por isso, <span class="color1">atendo a negócios de Todo o Brasil.</span>
-                    </h4> 
 
-                </div>
 
 
 
